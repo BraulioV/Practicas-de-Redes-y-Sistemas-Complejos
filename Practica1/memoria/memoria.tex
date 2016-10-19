@@ -121,15 +121,23 @@ La red utilizada es la que se encuentra en el grupo de Facebook \href{https://ww
 
 \section{Red del grupo}
 
-\subsection{Red completa del grupo}
+\subsection{Red completa del grupo y componente gigante}
 
-A continuación podemos ver la red completa que conforma el grupo. Una red con 1014 nodos y 1050 enlaces entre ellos. Esta red tiene una gran componente conexa, pero a la vez, tiene un montón de islas que podemos ver entorno a la componente gigante de la red. En ella podemos ver cómo los puntos más gruesos de la red son aquellos nodos que 
+A continuación podemos ver la red completa que conforma el grupo. Una red con 1014 nodos y 1050 enlaces entre ellos. Esta red tiene una gran componente conexa, pero a la vez, tiene un montón de islas que podemos ver entorno a la componente gigante de la red. En ella podemos ver la red distribuida gracias al algoritmo \textbf{Force Atlas 2}, donde los nodos más grandes son aquellos que mayor valor de intermediación tiene, haciendo de puente entre las pequeñas comunidades del mapa. El color nos lo da el valor de la centralidad del vector propio, siendo más rojos los nodos más centrales según su centralidad del vector propio.
 
 \begin{figure}[H]
   \centering
-  \includegraphics[scale=0.3]{RedCompleta}
+  \includegraphics[scale=0.225]{RedCompleta}
   \caption{Red completa}
   \label{red_cmp}
+\end{figure}
+
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=0.225]{componente_gigante}
+  \caption{Componente gigante}
+  \label{giant}
 \end{figure}
 
 \end{document}
