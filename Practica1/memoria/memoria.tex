@@ -115,13 +115,9 @@
 % \newpage
 \pagenumbering{arabic}
 
-\section{Descripción de la red}
+\section{Red del grupo, visualización y datos}
 
 La red utilizada es la que se encuentra en el grupo de Facebook \href{https://www.facebook.com/groups/goteborgerasmus1314/?fref=ts}{GOTEBORG ERASMUS 2013/2014}. En el momento en que se descargaron los datos, el grupo constaba de 2720 miembros de distintos países de Europa y se descargaron los datos de 800 posts del grupo, en los que aparecen las conexiones entre los usarios del grupo.
-
-\section{Red del grupo}
-
-\subsection{Red completa del grupo y componente gigante}
 
 A continuación podemos ver la red completa que conforma el grupo. Una red con 1014 nodos y 1050 enlaces entre ellos. Esta red tiene una gran componente conexa, pero a la vez, tiene un montón de islas que podemos ver entorno a la componente gigante de la red. En ella podemos ver la red distribuida gracias al algoritmo \textbf{Force Atlas 2}, donde los nodos más grandes son aquellos que mayor valor de intermediación tiene, haciendo de puente entre las pequeñas comunidades del mapa. El color nos lo da el valor de la centralidad del vector propio, siendo más rojos los nodos más centrales según su centralidad del vector propio.
 
@@ -139,9 +135,9 @@ A continuación podemos ver la red completa que conforma el grupo. Una red con 1
   \label{giant}
 \end{figure}
 
-\section{Datos de la Red}
-
+\begin{center}  
 \begin{tabular}{|c|c|}
+\hline
 \textbf{Medida} & Valor \\
 \hline
 Número de nodos $N$ & 1014 \\
@@ -150,27 +146,60 @@ Número de enlaces $L$ & 1050 \\
 \hline
 Número máximo de enlaces $L_{max}$ & 512578 \\
 \hline
-Densidad del grafo L/Lmax 0,002048468720858 \\
+Densidad del grafo $\frac{L}{L_{max}}$ & 0,002048468720858 \\
 \hline
-Grado medio <k> & 1,92 \\
+Grado medio $<k>$ & 1,92 \\
 \hline
-Diámetro dmax & 13 \\
+Diámetro $d_{max}$ & 13 \\
 \hline
-Distancia media d & 5,468 \\
+Distancia media $d$ & 5,468 \\
 \hline
-Coeficiente medio de clustering <C> & 0,022 \\
+Coeficiente medio de clustering $<C>$ & 0,022 \\
 \hline
-Número de componentes conexas & 34 \\
+Número de componentes conexas & 164\\
 \hline
-Número de nodos componente gigante (y \%) & 221 (73,91) \\
+Número de nodos componente gigante (y \%) & 749 (73,87) \\
 \hline
-Número de aristas componente gigante (y \%) & 242 (84,32) \\
+Número de aristas componente gigante (y \%) & 948 (90,29) \\
 \hline  
 \end{tabular}
+\end{center}
 
 \subsection{Gráficos asociados a los datos}
 
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de grados de la red]{
+        \includegraphics[width=0.5\textwidth]{./GradoMedio/degree-distribution}
+        \label{degree}
+      }
+      \qquad
+      \subfigure[Coeficiente de clustering de la red] {
+        \includegraphics[width=0.5\textwidth]{./CoeficienteClustering/clustering-coefficient}
+        \label{cluster}
+        }
+    }
+    \mbox {
+        \subfigure[Distribución de la intermediación de los nodos en la red]{
+        \includegraphics[width=0.5\textwidth]{./Diametro_red/BetweennessCentralityDistribution}
+        \label{between}
+      }
+      \qquad
+      \subfigure[Excentricidad de los nodos de la red] {
+        \includegraphics[width=0.5\textwidth]{./Diametro_red/EccentricityDistribution}
+        \label{eccentricity}
+        }
+    }
+    \caption{Diferentes medidas usadas en la red}
+    \label{medidas}
+\end{figure}
 
+\section{Descripción}
+
+Como podemos ver en los datos y en la tabla, tenemos una gran red de 1014 nodos en total. En esta red, existen 164 componentes conexas, habiendo una sola componente gigante que supone el 73.87\% de los nodos totales de la red, mientras que el resto de componentes, podemos ver cómo se situan alrededor de esta. 
+
+La distribución de color corresponde al valor de intermediación de los nodos, siendo menos centrales los nodos de color azul, y cuanto más rojo, más central es el nodo, mientras que a mayor tamaño, más central es el nodo. Como se puede ver, existen varios nodos centrales, que son los que conenctan la mayoría de nodos de la componente gigante, entre sí. Además, las aristas que salen de estos nodos son de mayor tamaño ya que, a mayor número de interacciones entre los usuarios, mayor es el peso de la arista. 
 
 \end{document}
 
