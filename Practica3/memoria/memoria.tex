@@ -168,6 +168,99 @@ Además de esto, en todas las redes se da el mismo suceso y es que el número de
 
 \subsection{Visualizaciones de las Redes}
 
+Las redes que vamos a visualizar son las redes de \textit{Spain-1996.net} y \textit{Spain-2004.net}. A continuación, podremos ver las distintas visualizaciones para los algoritmos \textbf{\textit{Frutcherman \& Reignold}} y \textbf{\textit{Kamada \& Kawai}}. Además de esto, servirá para ver la evolución científica en España tras 8 años.
+
+En ambas redes, podremos ver de color más rojo y más grande los nodos que más grado tienen. De igual manera pasa con los enlaces de la red. Serán de mayor grosor y más rojos cuanto mayor sea el peso del enlace.
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con Kamada \& Kawai.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q2KK}
+        \label{spq2kk}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q2FR}
+        \label{spq2fr}
+      }
+    }
+    \caption{Kamada \& Kawai y Frutcherman \& Reignold para la red Spain-1996 con $q=2$.}
+    \label{spq2}
+\end{figure}
+
+En la \hyperref[spq2kk]{Figura \ref*{spq2kk}} podemos ver como el algoritmo Kamada \& Kawai hace una distribución ``similar'' a un plano de metro, donde podemos ver de forma más clara, la distribución de la producción científica del país. En los nodos centrales (si el tamaño permitiera ver bien las etiquetas), podemos ver que los nodos más importantes son la medicina y la bioquímica, lléndose hacia la izquierda ramas científicas como la ingeniería, matemática aplicada$\ldots$ Sin embargo, Frutecherman \& Reignold (\hyperref[spq2fr]{Figura \ref*{spq2fr}}) realiza una distribución circular, donde es más difícil interpretar los datos, ya que todos quedan más o menos a la misma distancia, cosa que con Kamada \& Kawai no pasa, ya que aleja los nodos que menos relación tienen entre sí.
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con Kamada \& Kawai.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q2KK}
+        \label{spq2kk}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q2FR}
+        \label{spq2fr}
+      }
+    }
+    \caption{Kamada \& Kawai y Frutcherman \& Reignold para la red Spain-1996 con $q=2$.}
+    \label{spq2}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con Kamada \& Kawai.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q3KK}
+        \label{spq3kk}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q3FR}
+        \label{spq3fr}
+      }
+    }
+    \caption{Kamada \& Kawai y Frutcherman \& Reignold para la red Spain-1996 con $q=3$.}
+    \label{spq3}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con Kamada \& Kawai.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q4KK}
+        \label{spq4kk}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q4FR}
+        \label{spq4fr}
+      }
+    }
+    \caption{Kamada \& Kawai y Frutcherman \& Reignold para la red Spain-1996 con $q=4$.}
+    \label{spq4}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con Kamada \& Kawai.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain1996qn-1KK}
+        \label{spqn-1kk}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996qn-1FR}
+        \label{spqn-1fr}
+      }
+    }
+    \caption{Kamada \& Kawai y Frutcherman \& Reignold para la red Spain-1996 con $q=n-1$.}
+    \label{spqN-1}
+\end{figure}
+
+Como se puede ver en cada una de las imágenes podemos ver cómo, para este tipo de red, el algoritmo Kamada \& Kawai realiza una mejor visualización que Frutcherman \& Reignold, dejando más alejadas las materias que no tienen relación entre sí, y más cercanas las que sí tienen relación, mientras que Frutcherman \& Reignold, realiza una visualización circular, al querer dejar los enlaces con la misma longitud.
+
 \section{Análisis de eficiencia de las variantes del algoritmo \textit{Pathfinder}}
 
 \end{document}
