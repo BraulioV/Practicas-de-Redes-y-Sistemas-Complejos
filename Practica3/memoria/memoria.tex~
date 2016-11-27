@@ -1,0 +1,171 @@
+\documentclass[paper=a4, fontsize=11pt]{article} % A4 paper and 11pt font size
+\usepackage[a4paper, margin=1.3in]{geometry}
+% ---- Entrada y salida de texto -----
+
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+\usepackage[utf8]{inputenc}
+% \usepackage[light,math]{iwona}
+
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage{pseudocode}
+
+
+% ---- Idioma --------
+
+\usepackage[spanish, es-tabla]{babel} % Selecciona el español para palabras introducidas automáticamente, p.ej. "septiembre" en la fecha y especifica que se use la palabra Tabla en vez de Cuadro
+
+% ---- Otros paquetes ----
+
+\usepackage{amsmath,amsfonts,amsthm} % Math packages
+\usepackage{graphics,graphicx, floatrow} %para incluir imágenes y notas en las imágenes
+\usepackage{graphics,graphicx, float} %para incluir imágenes y colocarlas
+\usepackage{enumerate}
+\usepackage{subfigure}
+% \makesavenoteenv{tabular}
+% \makesavenoteenv{table}
+% Para hacer tablas comlejas
+%\usepackage{multirow}
+%\usepackage{threeparttable}
+\usepackage{sectsty} % Allows customizing section commands
+\allsectionsfont{\centering \scshape} % Make all sections centered, the default font and small caps
+
+\usepackage{fancyhdr} % Custom headers and footers
+\usepackage[usenames, dvipsnames]{color}
+\usepackage{colortbl}
+% \usepackage{minted}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{cancel}
+
+% \newmintedfile[mycpp]{c++}{
+%     linenos,
+%     numbersep=5pt,
+%     gobble=0,
+%     frame=lines,
+%     framesep=2mm,
+% }
+
+% \newmintedfile[myc]{c}{
+%     linenos,
+%     numbersep=5pt,
+%     gobble=0,
+%     frame=lines,
+%     framesep=2mm,
+% }
+
+% \newmintedfile[mypython]{python}{
+%     linenos,
+%     numbersep=5pt,
+%     gobble=0,
+%     frame=lines,
+%     framesep=2mm,
+% }
+
+\usepackage{cite}
+
+\usepackage[bookmarks=true,
+    bookmarksnumbered=false, % true means bookmarks in
+             % left window are numbered
+    bookmarksopen=false,   % true means only level 1
+             % are displayed.
+    colorlinks=true,
+    urlcolor=webblue,
+    citecolor=webred,
+    linkcolor=webblue]{hyperref}
+\definecolor{webgreen}{rgb}{0, 0.5, 0} % less intense green
+\definecolor{webblue}{rgb}{0, 0, 0.5}  % less intense blue
+\definecolor{webred}{rgb}{0.5, 0, 0} % less intense red
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leo}
+
+\pagestyle{fancyplain} % Makes all pages in the document conform to the custom headers and footers
+\fancyhead{} % No page header - if you want one, create it in the same way as the footers below
+\fancyfoot[L]{} % Empty left footer
+\fancyfoot[C]{} % Empty center footer
+\fancyfoot[R]{\thepage} % Page numbering for right footer
+\renewcommand{\headrulewidth}{0pt} % Remove header underlines
+\renewcommand{\footrulewidth}{0pt} % Remove footer underlines
+\setlength{\headheight}{13.6pt} % Customize the height of the header
+
+\numberwithin{equation}{section} % Number equations within sections (i.e. 1.1, 1.2, 2.1, 2.2 instead of 1, 2, 3, 4)
+\numberwithin{figure}{section} % Number figures within sections (i.e. 1.1, 1.2, 2.1, 2.2 instead of 1, 2, 3, 4)
+\numberwithin{table}{section} % Number tables within sections (i.e. 1.1, 1.2, 2.1, 2.2 instead of 1, 2, 3, 4)
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs - comment this line for an assignment with lots of text
+
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} % Create horizontal rule command with 1 argument of height
+
+%%%%% Para cambiar el tipo de letra en el título de la sección %%%%%%%%%%%
+% \usepackage{sectsty}
+% \chapterfont{\fontfamily{pag}\selectfont} %% for chapter if you want
+% \sectionfont{\fontfamily{pag}\selectfont}
+% \subsectionfont{\fontfamily{pag}\selectfont}
+% \subsubsectionfont{\fontfamily{pag}\selectfont}
+
+%----------------------------------------------------------------------------------------
+% TÍTULO Y DATOS DEL ALUMNO
+%----------------------------------------------------------------------------------------
+
+\title{ 
+\normalfont \normalsize 
+\textsc{{\bf Redes y Sistemas Complejos (2016-2017)} \\ Grado en Ingeniería Informática \\ Universidad de Granada} \\ [25pt] % Your university, school and/or department name(s)
+\horrule{0.5pt} \\[0.4cm] % Thin top horizontal rule
+\huge Memoria Práctica 3\\ Estudio Comparativo de Métodos para Poda y Visualización de Redes.\\% The assignment title
+\horrule{2pt} \\[0.5cm] % Thick bottom horizontal rule
+}
+
+\author{Braulio Vargas López\\DNI: 20079894C\\Correo: brauliovarlop@correo.ugr.es} % Nombre y apellidos
+
+\date{\normalsize\today} % Incluye la fecha actual
+
+%----------------------------------------------------------------------------------------
+% DOCUMENTO
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Muestra el Título
+\pagenumbering{gobble}
+\newpage %inserta un salto de página
+
+\tableofcontents % para generar el índice de contenidos
+% \newpage
+\pagenumbering{arabic}
+
+\section{Poda y Visualización}
+
+En esta primera parte del guión, vamos a realizar un análisis de diez de las veinte redes disponibles, podándo cada una de las redes con la versión \textit{BinaryPathfinder} del algoritmo. Las diez redes escogidas son:
+
+\begin{enumerate}
+    \item France-2002
+    \item Germany-2002
+    \item Japan-2002
+    \item Spain-1996
+    \item Spain-1998
+    \item Spain-2002
+    \item Spain-2004
+    \item United\_Kingdom-2002
+    \item United\_States-2002
+    \item World
+\end{enumerate}
+
+La razón de coger estas redes es por el hecho de poder ver la evolución de la producción científica en España a lo largo de ocho años, y poder compararlas con otros países durante el año 2002. Además, de poder ver la producción científica a nivel mundial en la última red.
+
+A continuación, podemos ver los resultados obtenidos aplicando el algoritmo a cada uno de las redes seleccionadas:
+
+\input{redes.tex}  
+
+Como podemos ver en las tablas anteriores, los resultados para todas las redes son parecidos. Con $n=2$, el algoritmo poda una gran cantidad de enlaces en todas las redes, lo que hace bajar muchísimo la densidad de la red. Por ejemplo, en la \hyperref[fr-gr]{Tabla \ref*{fr-gr}}, para la red \textit{France-2002.net} podemos ver cómo la red original tenía 23986 enlaces y una densidad $D\approx 0.7$, pasa a tener con 312 enlaces y una densidad de $D \approx 0.009$, unas 77 veces menor aproximadamente.
+
+Además de esto, en todas las redes se da el mismo suceso y es que el número de enlaces para $n=5$ y $n = \infty$ es prácticamente igual, o hay casos en los que es igual, como se puede ver en las tablas \hyperref[jp-sp]{Tabla \ref*{jp-sp}}. 
+
+\section{Análisis de eficiencia de las variantes del algoritmo \textit{Pathfinder}}
+
+\end{document}
