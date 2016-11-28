@@ -324,4 +324,24 @@ Al igual que pasaba en la sección anterior, podemos ver que el algoritmo Kamada
 
 \section{Análisis de eficiencia de las variantes del algoritmo \textit{Pathfinder}}
 
+Para analizar la eficiencia práctica de los distintos algoritmos, vámos a lanzarlos para redes aleatorias de tamaño 500, 1000, 2000, 5000 y 10000 nodos. Para ello, se ha creado un script que ejecuta los algoritmos para las distintas redes y genera una tabla en la que podemos ver los resultados de las distintas ejecuciones.
+
+\input{comparacion.tex}
+
+Como se puede ver en la \hyperref[result]{Tabla \ref*{result}}, la versión original del algoritmo Pathfinder, es bastante ineficiente, en comparación con el resto, ya que para problemas de pequeño tamaño, ya requiere una gran cantidad de tiempo y un gran espacio. Esto se debe, al estar basado en programación dinámica, tienen unos ordenes de complejidad en tiempo de $\mathcal{O}(n^4)$ y una complejidad en espacio de $\mathcal{O}(n^3-2\cdot n^2)\equiv\mathcal{O}(n^3)$, que aunque sea polinómica, para problemas donde $n$, ni siquiera es grande, con un $n=1000$ los tiempos de ejecución son del orden de unos 10 minutos en una máquina con un procesador que funciona con \textit{overclock} a $4.6GHz$.
+
+La segunda versión del algoritmo Pathfinder, \textit{BinaryPathfinder}, mejora estos órdenes de complejidad del algoritmo, pero aun así, para problemas de gran tamaño, sigue sufriendo y es incapaz de acabar en tiempos razonables. Esto se debe a que, a pesar de haber rebajado los órdenes de complejidad, estos siguen siendo $\mathcal{O}(n^3\log n)$ para el tiempo, y $\mathcal{O}(4\cdot n^2)$ para el espacio, que aunque sean menores, siguen siendo ``malos'' para problemas donde $n$ es grande.
+
+En la versión \textit{FastPathfinder}, se vuelve a reducir tanto la complejidad en tiempo como en espacio, pasando a tener $\mathcal{O}(n^3)$ para el tiempo, y $\mathcal{O}(3\cdot n^2)$ para el espacio. Esta reducción permite que para problemas donde $n$ es pequeña, pase a tiempos de décimas de segundo, y nos permite ejecutar problemas donde $n = 5000$, en unos 5 minutos aproximadamente. Aun así, a pesar de esta mejora, seguimos poder sin ejecutar problemas donde la $n$ tiene un tamaño medio en un tiempo razonable, es decir, $n > 7000$.
+
+Estas tres versiones utilizan la programación dinámica como algoritmo base, lo que provoca estos órdenes de complejidad tanto en tiempo como en espacio. Las siguientes versiones cambian de paradigma, abandonando la programación dinámica y usando un algoritmo de la teoría clásica de grafos: \textbf{el algoritmo de Kruskal}.
+
+El algoritmo de Kruskal es un algoritmo clásico de la teoría de grafos, muy utilizado para encontrar el árbol generador minimal de un grafo $G$ que toma como entrada, ya que la complejidad en tiempo y espacio es muy pequeña, lo que lo hace muy eficiente. Tomando esto como base, surgieron los siguientes algoritmos.
+
+La versión teórica de esta versión, \textit{MST-Theorical}, es exactamente igual a la versión \textit{MST-Practical} pero cambia la estructura de datos utilizada en los algoritmos. La versión teórica tiene un orden de complejidad menor que la versión práctica, pero los tiempos de ejecución son mayores debido a la estructura de datos que tiene asociada. La versión teórica usa una estructura de datos de conjuntos disjuntos con una unión por rango y comprensión de caminos, mientras que la versión práctica, utiliza una lista indexada de conjuntos disjuntos, es decir, tres listas de enlaces con sus pesos ($F$, $T$ y $H$) junto con el índice. Para más detalle, podemos consultar el artículo original \cite{alg}.
+
+Los órdenes de complejidad son $\mathcal{O}(n^2\cdot\log n)$ para el tiempo y $\mathcal{O}(3\cdot n^2+n)$ para el espacio en la versión teórica del algoritmo MST, mientras que para la versión teórica tenemos $\mathcal{O}(n^3)$ para el tiempo y $\mathcal{O}(3\cdot n^2+n)$ para el espacio. Como podemos ver, la versión teórica tiene unos órdenes de complejidad menor que la versión práctica, pero aun así, gracias a que las estructuras de datos son más simples en la versión práctica, podemos observar en la \hyperref[result]{Tabla \ref*{result}} la versión práctica es más rápida que la teórica.
+
+A pesar de la mejora en tiempo, supone un deterioro en los órdenes de complejidad en espacio, pero es un precio a pagar para poder representar redes con un mayor número de nodos en un tiempo razonable.
+
 \end{document}
