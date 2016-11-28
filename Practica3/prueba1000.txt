@@ -1,0 +1,6002 @@
+*vertices 1000
+1 "1" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+2 "2" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+3 "3" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+4 "4" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+5 "5" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+6 "6" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+7 "7" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+8 "8" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+9 "9" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+10 "10" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+11 "11" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+12 "12" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+13 "13" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+14 "14" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+15 "15" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+16 "16" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+17 "17" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+18 "18" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+19 "19" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+20 "20" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+21 "21" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+22 "22" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+23 "23" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+24 "24" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+25 "25" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+26 "26" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+27 "27" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+28 "28" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+29 "29" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+30 "30" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+31 "31" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+32 "32" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+33 "33" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+34 "34" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+35 "35" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+36 "36" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+37 "37" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+38 "38" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+39 "39" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+40 "40" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+41 "41" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+42 "42" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+43 "43" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+44 "44" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+45 "45" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+46 "46" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+47 "47" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+48 "48" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+49 "49" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+50 "50" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+51 "51" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+52 "52" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+53 "53" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+54 "54" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+55 "55" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+56 "56" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+57 "57" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+58 "58" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+59 "59" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+60 "60" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+61 "61" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+62 "62" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+63 "63" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+64 "64" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+65 "65" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+66 "66" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+67 "67" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+68 "68" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+69 "69" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+70 "70" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+71 "71" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+72 "72" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+73 "73" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+74 "74" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+75 "75" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+76 "76" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+77 "77" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+78 "78" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+79 "79" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+80 "80" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+81 "81" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+82 "82" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+83 "83" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+84 "84" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+85 "85" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+86 "86" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+87 "87" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+88 "88" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+89 "89" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+90 "90" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+91 "91" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+92 "92" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+93 "93" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+94 "94" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+95 "95" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+96 "96" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+97 "97" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+98 "98" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+99 "99" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+100 "100" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+101 "101" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+102 "102" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+103 "103" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+104 "104" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+105 "105" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+106 "106" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+107 "107" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+108 "108" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+109 "109" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+110 "110" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+111 "111" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+112 "112" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+113 "113" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+114 "114" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+115 "115" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+116 "116" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+117 "117" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+118 "118" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+119 "119" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+120 "120" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+121 "121" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+122 "122" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+123 "123" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+124 "124" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+125 "125" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+126 "126" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+127 "127" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+128 "128" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+129 "129" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+130 "130" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+131 "131" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+132 "132" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+133 "133" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+134 "134" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+135 "135" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+136 "136" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+137 "137" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+138 "138" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+139 "139" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+140 "140" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+141 "141" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+142 "142" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+143 "143" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+144 "144" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+145 "145" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+146 "146" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+147 "147" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+148 "148" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+149 "149" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+150 "150" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+151 "151" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+152 "152" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+153 "153" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+154 "154" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+155 "155" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+156 "156" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+157 "157" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+158 "158" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+159 "159" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+160 "160" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+161 "161" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+162 "162" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+163 "163" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+164 "164" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+165 "165" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+166 "166" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+167 "167" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+168 "168" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+169 "169" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+170 "170" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+171 "171" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+172 "172" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+173 "173" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+174 "174" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+175 "175" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+176 "176" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+177 "177" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+178 "178" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+179 "179" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+180 "180" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+181 "181" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+182 "182" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+183 "183" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+184 "184" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+185 "185" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+186 "186" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+187 "187" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+188 "188" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+189 "189" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+190 "190" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+191 "191" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+192 "192" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+193 "193" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+194 "194" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+195 "195" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+196 "196" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+197 "197" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+198 "198" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+199 "199" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+200 "200" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+201 "201" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+202 "202" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+203 "203" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+204 "204" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+205 "205" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+206 "206" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+207 "207" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+208 "208" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+209 "209" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+210 "210" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+211 "211" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+212 "212" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+213 "213" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+214 "214" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+215 "215" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+216 "216" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+217 "217" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+218 "218" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+219 "219" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+220 "220" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+221 "221" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+222 "222" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+223 "223" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+224 "224" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+225 "225" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+226 "226" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+227 "227" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+228 "228" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+229 "229" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+230 "230" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+231 "231" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+232 "232" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+233 "233" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+234 "234" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+235 "235" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+236 "236" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+237 "237" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+238 "238" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+239 "239" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+240 "240" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+241 "241" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+242 "242" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+243 "243" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+244 "244" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+245 "245" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+246 "246" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+247 "247" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+248 "248" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+249 "249" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+250 "250" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+251 "251" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+252 "252" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+253 "253" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+254 "254" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+255 "255" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+256 "256" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+257 "257" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+258 "258" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+259 "259" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+260 "260" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+261 "261" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+262 "262" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+263 "263" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+264 "264" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+265 "265" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+266 "266" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+267 "267" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+268 "268" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+269 "269" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+270 "270" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+271 "271" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+272 "272" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+273 "273" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+274 "274" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+275 "275" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+276 "276" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+277 "277" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+278 "278" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+279 "279" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+280 "280" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+281 "281" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+282 "282" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+283 "283" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+284 "284" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+285 "285" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+286 "286" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+287 "287" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+288 "288" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+289 "289" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+290 "290" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+291 "291" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+292 "292" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+293 "293" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+294 "294" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+295 "295" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+296 "296" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+297 "297" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+298 "298" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+299 "299" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+300 "300" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+301 "301" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+302 "302" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+303 "303" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+304 "304" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+305 "305" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+306 "306" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+307 "307" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+308 "308" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+309 "309" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+310 "310" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+311 "311" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+312 "312" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+313 "313" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+314 "314" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+315 "315" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+316 "316" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+317 "317" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+318 "318" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+319 "319" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+320 "320" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+321 "321" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+322 "322" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+323 "323" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+324 "324" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+325 "325" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+326 "326" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+327 "327" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+328 "328" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+329 "329" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+330 "330" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+331 "331" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+332 "332" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+333 "333" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+334 "334" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+335 "335" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+336 "336" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+337 "337" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+338 "338" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+339 "339" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+340 "340" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+341 "341" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+342 "342" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+343 "343" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+344 "344" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+345 "345" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+346 "346" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+347 "347" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+348 "348" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+349 "349" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+350 "350" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+351 "351" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+352 "352" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+353 "353" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+354 "354" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+355 "355" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+356 "356" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+357 "357" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+358 "358" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+359 "359" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+360 "360" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+361 "361" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+362 "362" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+363 "363" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+364 "364" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+365 "365" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+366 "366" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+367 "367" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+368 "368" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+369 "369" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+370 "370" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+371 "371" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+372 "372" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+373 "373" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+374 "374" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+375 "375" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+376 "376" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+377 "377" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+378 "378" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+379 "379" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+380 "380" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+381 "381" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+382 "382" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+383 "383" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+384 "384" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+385 "385" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+386 "386" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+387 "387" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+388 "388" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+389 "389" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+390 "390" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+391 "391" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+392 "392" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+393 "393" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+394 "394" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+395 "395" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+396 "396" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+397 "397" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+398 "398" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+399 "399" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+400 "400" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+401 "401" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+402 "402" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+403 "403" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+404 "404" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+405 "405" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+406 "406" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+407 "407" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+408 "408" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+409 "409" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+410 "410" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+411 "411" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+412 "412" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+413 "413" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+414 "414" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+415 "415" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+416 "416" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+417 "417" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+418 "418" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+419 "419" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+420 "420" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+421 "421" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+422 "422" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+423 "423" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+424 "424" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+425 "425" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+426 "426" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+427 "427" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+428 "428" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+429 "429" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+430 "430" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+431 "431" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+432 "432" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+433 "433" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+434 "434" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+435 "435" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+436 "436" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+437 "437" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+438 "438" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+439 "439" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+440 "440" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+441 "441" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+442 "442" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+443 "443" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+444 "444" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+445 "445" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+446 "446" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+447 "447" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+448 "448" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+449 "449" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+450 "450" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+451 "451" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+452 "452" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+453 "453" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+454 "454" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+455 "455" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+456 "456" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+457 "457" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+458 "458" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+459 "459" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+460 "460" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+461 "461" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+462 "462" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+463 "463" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+464 "464" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+465 "465" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+466 "466" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+467 "467" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+468 "468" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+469 "469" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+470 "470" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+471 "471" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+472 "472" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+473 "473" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+474 "474" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+475 "475" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+476 "476" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+477 "477" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+478 "478" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+479 "479" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+480 "480" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+481 "481" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+482 "482" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+483 "483" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+484 "484" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+485 "485" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+486 "486" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+487 "487" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+488 "488" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+489 "489" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+490 "490" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+491 "491" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+492 "492" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+493 "493" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+494 "494" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+495 "495" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+496 "496" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+497 "497" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+498 "498" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+499 "499" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+500 "500" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+501 "501" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+502 "502" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+503 "503" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+504 "504" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+505 "505" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+506 "506" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+507 "507" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+508 "508" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+509 "509" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+510 "510" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+511 "511" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+512 "512" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+513 "513" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+514 "514" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+515 "515" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+516 "516" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+517 "517" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+518 "518" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+519 "519" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+520 "520" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+521 "521" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+522 "522" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+523 "523" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+524 "524" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+525 "525" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+526 "526" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+527 "527" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+528 "528" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+529 "529" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+530 "530" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+531 "531" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+532 "532" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+533 "533" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+534 "534" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+535 "535" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+536 "536" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+537 "537" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+538 "538" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+539 "539" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+540 "540" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+541 "541" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+542 "542" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+543 "543" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+544 "544" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+545 "545" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+546 "546" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+547 "547" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+548 "548" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+549 "549" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+550 "550" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+551 "551" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+552 "552" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+553 "553" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+554 "554" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+555 "555" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+556 "556" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+557 "557" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+558 "558" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+559 "559" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+560 "560" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+561 "561" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+562 "562" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+563 "563" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+564 "564" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+565 "565" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+566 "566" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+567 "567" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+568 "568" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+569 "569" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+570 "570" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+571 "571" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+572 "572" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+573 "573" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+574 "574" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+575 "575" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+576 "576" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+577 "577" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+578 "578" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+579 "579" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+580 "580" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+581 "581" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+582 "582" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+583 "583" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+584 "584" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+585 "585" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+586 "586" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+587 "587" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+588 "588" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+589 "589" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+590 "590" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+591 "591" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+592 "592" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+593 "593" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+594 "594" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+595 "595" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+596 "596" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+597 "597" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+598 "598" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+599 "599" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+600 "600" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+601 "601" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+602 "602" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+603 "603" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+604 "604" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+605 "605" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+606 "606" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+607 "607" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+608 "608" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+609 "609" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+610 "610" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+611 "611" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+612 "612" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+613 "613" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+614 "614" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+615 "615" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+616 "616" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+617 "617" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+618 "618" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+619 "619" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+620 "620" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+621 "621" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+622 "622" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+623 "623" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+624 "624" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+625 "625" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+626 "626" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+627 "627" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+628 "628" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+629 "629" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+630 "630" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+631 "631" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+632 "632" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+633 "633" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+634 "634" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+635 "635" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+636 "636" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+637 "637" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+638 "638" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+639 "639" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+640 "640" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+641 "641" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+642 "642" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+643 "643" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+644 "644" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+645 "645" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+646 "646" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+647 "647" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+648 "648" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+649 "649" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+650 "650" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+651 "651" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+652 "652" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+653 "653" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+654 "654" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+655 "655" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+656 "656" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+657 "657" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+658 "658" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+659 "659" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+660 "660" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+661 "661" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+662 "662" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+663 "663" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+664 "664" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+665 "665" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+666 "666" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+667 "667" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+668 "668" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+669 "669" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+670 "670" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+671 "671" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+672 "672" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+673 "673" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+674 "674" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+675 "675" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+676 "676" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+677 "677" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+678 "678" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+679 "679" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+680 "680" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+681 "681" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+682 "682" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+683 "683" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+684 "684" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+685 "685" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+686 "686" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+687 "687" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+688 "688" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+689 "689" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+690 "690" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+691 "691" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+692 "692" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+693 "693" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+694 "694" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+695 "695" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+696 "696" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+697 "697" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+698 "698" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+699 "699" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+700 "700" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+701 "701" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+702 "702" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+703 "703" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+704 "704" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+705 "705" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+706 "706" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+707 "707" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+708 "708" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+709 "709" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+710 "710" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+711 "711" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+712 "712" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+713 "713" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+714 "714" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+715 "715" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+716 "716" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+717 "717" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+718 "718" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+719 "719" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+720 "720" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+721 "721" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+722 "722" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+723 "723" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+724 "724" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+725 "725" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+726 "726" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+727 "727" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+728 "728" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+729 "729" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+730 "730" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+731 "731" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+732 "732" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+733 "733" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+734 "734" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+735 "735" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+736 "736" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+737 "737" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+738 "738" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+739 "739" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+740 "740" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+741 "741" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+742 "742" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+743 "743" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+744 "744" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+745 "745" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+746 "746" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+747 "747" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+748 "748" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+749 "749" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+750 "750" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+751 "751" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+752 "752" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+753 "753" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+754 "754" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+755 "755" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+756 "756" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+757 "757" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+758 "758" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+759 "759" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+760 "760" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+761 "761" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+762 "762" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+763 "763" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+764 "764" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+765 "765" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+766 "766" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+767 "767" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+768 "768" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+769 "769" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+770 "770" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+771 "771" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+772 "772" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+773 "773" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+774 "774" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+775 "775" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+776 "776" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+777 "777" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+778 "778" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+779 "779" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+780 "780" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+781 "781" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+782 "782" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+783 "783" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+784 "784" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+785 "785" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+786 "786" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+787 "787" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+788 "788" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+789 "789" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+790 "790" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+791 "791" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+792 "792" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+793 "793" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+794 "794" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+795 "795" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+796 "796" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+797 "797" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+798 "798" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+799 "799" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+800 "800" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+801 "801" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+802 "802" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+803 "803" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+804 "804" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+805 "805" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+806 "806" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+807 "807" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+808 "808" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+809 "809" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+810 "810" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+811 "811" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+812 "812" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+813 "813" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+814 "814" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+815 "815" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+816 "816" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+817 "817" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+818 "818" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+819 "819" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+820 "820" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+821 "821" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+822 "822" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+823 "823" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+824 "824" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+825 "825" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+826 "826" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+827 "827" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+828 "828" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+829 "829" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+830 "830" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+831 "831" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+832 "832" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+833 "833" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+834 "834" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+835 "835" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+836 "836" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+837 "837" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+838 "838" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+839 "839" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+840 "840" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+841 "841" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+842 "842" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+843 "843" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+844 "844" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+845 "845" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+846 "846" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+847 "847" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+848 "848" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+849 "849" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+850 "850" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+851 "851" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+852 "852" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+853 "853" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+854 "854" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+855 "855" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+856 "856" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+857 "857" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+858 "858" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+859 "859" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+860 "860" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+861 "861" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+862 "862" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+863 "863" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+864 "864" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+865 "865" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+866 "866" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+867 "867" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+868 "868" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+869 "869" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+870 "870" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+871 "871" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+872 "872" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+873 "873" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+874 "874" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+875 "875" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+876 "876" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+877 "877" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+878 "878" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+879 "879" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+880 "880" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+881 "881" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+882 "882" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+883 "883" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+884 "884" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+885 "885" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+886 "886" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+887 "887" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+888 "888" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+889 "889" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+890 "890" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+891 "891" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+892 "892" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+893 "893" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+894 "894" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+895 "895" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+896 "896" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+897 "897" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+898 "898" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+899 "899" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+900 "900" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+901 "901" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+902 "902" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+903 "903" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+904 "904" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+905 "905" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+906 "906" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+907 "907" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+908 "908" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+909 "909" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+910 "910" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+911 "911" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+912 "912" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+913 "913" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+914 "914" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+915 "915" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+916 "916" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+917 "917" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+918 "918" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+919 "919" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+920 "920" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+921 "921" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+922 "922" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+923 "923" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+924 "924" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+925 "925" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+926 "926" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+927 "927" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+928 "928" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+929 "929" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+930 "930" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+931 "931" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+932 "932" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+933 "933" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+934 "934" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+935 "935" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+936 "936" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+937 "937" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+938 "938" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+939 "939" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+940 "940" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+941 "941" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+942 "942" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+943 "943" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+944 "944" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+945 "945" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+946 "946" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+947 "947" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+948 "948" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+949 "949" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+950 "950" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+951 "951" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+952 "952" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+953 "953" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+954 "954" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+955 "955" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+956 "956" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+957 "957" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+958 "958" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+959 "959" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+960 "960" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+961 "961" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+962 "962" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+963 "963" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+964 "964" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+965 "965" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+966 "966" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+967 "967" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+968 "968" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+969 "969" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+970 "970" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+971 "971" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+972 "972" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+973 "973" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+974 "974" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+975 "975" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+976 "976" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+977 "977" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+978 "978" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+979 "979" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+980 "980" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+981 "981" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+982 "982" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+983 "983" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+984 "984" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+985 "985" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+986 "986" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+987 "987" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+988 "988" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+989 "989" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+990 "990" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+991 "991" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+992 "992" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+993 "993" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+994 "994" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+995 "995" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+996 "996" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+997 "997" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+998 "998" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+999 "999" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+1000 "1000" ellipse x_fact 1.22866290766363 y_fact 1.22866290766363 fos 3.5 bw 0.0  ic Emerald
+*edges
+1 174 1936025444
+1 236 2147483631
+1 281 2147483631
+1 372 2147483631
+1 463 2147483631
+1 481 2147483631
+1 624 2147483631
+1 767 2147483631
+1 789 2147483631
+1 839 2147483631
+1 964 2147483631
+1 996 2147483631
+2 77 2147483631
+2 93 2147483632
+2 103 2147483632
+2 218 2147483631
+2 258 2147483631
+2 339 2147483631
+2 355 2147483631
+2 606 2147483631
+2 758 2147483631
+2 849 2147483631
+2 915 2147483631
+3 55 2147483631
+3 168 2147483632
+3 330 2147483631
+3 568 2147483631
+3 660 2147483631
+3 805 2147483631
+3 807 2147483631
+3 816 2147483631
+3 933 2147483631
+3 946 2147483631
+4 72 2147483631
+4 108 2147483632
+4 277 2147483631
+4 893 2147483631
+4 950 2147483631
+5 33 2147483631
+5 68 2147483632
+5 114 2147483632
+5 186 2147483631
+5 211 2147483631
+5 257 2147483631
+5 270 2147483631
+5 326 2147483631
+5 506 2147483631
+5 688 2147483631
+5 791 2147483631
+5 813 2147483631
+5 871 2147483631
+5 876 2147483631
+5 918 2147483631
+5 947 2147483631
+6 100 2147483631
+6 217 2147483631
+6 279 2147483631
+6 305 2147483631
+6 337 2147483631
+6 338 2147483631
+6 629 2147483631
+6 704 2147483631
+6 765 2147483631
+7 144 2147483631
+7 248 2147483631
+7 392 2147483631
+7 475 2147483631
+7 498 2147483631
+7 506 2147483631
+7 605 2147483631
+7 953 2147483631
+8 140 2147483631
+8 275 2147483631
+8 384 2147483631
+8 402 2147483631
+8 421 2147483631
+8 774 2147483631
+8 839 2147483631
+8 876 2147483631
+8 962 2147483631
+8 972 2147483631
+9 328 2147483631
+9 441 2147483631
+9 543 2147483631
+9 620 2147483631
+9 624 2147483631
+9 758 2147483631
+9 825 2147483631
+9 849 2147483631
+9 911 2147483631
+9 964 2147483631
+10 52 2147483631
+10 54 2147483631
+10 111 2147483631
+10 158 2147483630
+10 183 2147483630
+10 214 2147483630
+10 318 2147483630
+10 326 2147483630
+10 331 2147483630
+10 344 2147483630
+10 763 2147483630
+10 812 2147483630
+10 895 2147483630
+10 1000 2147483630
+11 105 2147483629
+11 128 2147483630
+11 216 2147483630
+11 541 2147483630
+11 671 2147483630
+11 819 2147483630
+11 836 2147483630
+11 838 2147483630
+11 992 2147483630
+12 13 2147483630
+12 218 2147483631
+12 301 2147483630
+12 371 2147483630
+12 594 2147483630
+12 766 2147483630
+12 805 2147483630
+12 979 2147483630
+13 342 2147483630
+13 509 2147483630
+13 611 2147483630
+13 790 2147483630
+13 855 2147483630
+13 944 2147483630
+14 213 2147483630
+14 426 2147483630
+14 597 2147483630
+14 599 2147483630
+14 627 2147483630
+14 655 2147483630
+14 740 2147483630
+14 809 2147483630
+14 859 2147483630
+14 924 2147483630
+14 978 2147483630
+14 998 2147483630
+15 147 2147483630
+15 178 2147483630
+15 251 2147483630
+15 286 2147483630
+15 323 2147483630
+15 463 2147483630
+15 894 2147483630
+15 976 2147483630
+16 73 2147483630
+16 236 2147483631
+16 239 2147483630
+16 291 2147483630
+16 308 2147483630
+16 394 2147483630
+16 571 2147483630
+16 814 2147483630
+16 876 2147483630
+16 923 2147483630
+16 995 2147483630
+17 117 2147483630
+17 352 2147483630
+17 531 2147483630
+17 601 2147483630
+17 616 2147483630
+17 640 2147483630
+17 671 2147483630
+17 759 2147483630
+17 817 2147483630
+17 845 2147483630
+17 901 2147483630
+17 914 2147483630
+18 424 2147483630
+18 578 2147483630
+18 768 2147483630
+18 965 2147483630
+18 976 2147483630
+19 149 2147483630
+19 232 2147483630
+19 309 2147483630
+19 383 2147483630
+19 419 2147483630
+19 449 2147483630
+19 562 2147483630
+19 616 2147483630
+19 673 2147483630
+19 674 2147483630
+19 717 2147483630
+19 862 2147483630
+19 866 2147483630
+19 915 2147483630
+19 946 2147483630
+20 34 2147483630
+20 174 2147483631
+20 235 2147483630
+20 311 2147483630
+20 391 2147483630
+20 407 2147483630
+20 640 2147483630
+20 685 2147483630
+20 726 2147483630
+20 845 2147483630
+20 974 2147483630
+21 33 2147483630
+21 94 2147483631
+21 127 2147483631
+21 151 2147483630
+21 211 2147483630
+21 376 2147483630
+21 501 2147483630
+21 539 2147483630
+22 266 2147483630
+22 324 2147483630
+22 385 2147483630
+22 433 2147483630
+22 473 2147483630
+22 479 2147483630
+22 743 2147483630
+22 852 2147483630
+22 857 2147483630
+23 73 2147483630
+23 390 2147483631
+23 425 2147483630
+23 480 2147483630
+23 842 2147483630
+23 995 2147483630
+24 67 2147483630
+24 77 2147483631
+24 215 2147483631
+24 247 2147483630
+24 454 2147483630
+24 561 2147483630
+24 670 2147483630
+24 739 2147483630
+24 770 2147483630
+24 871 2147483630
+25 38 2147483630
+25 50 2147483631
+25 64 2147483631
+25 188 2147483631
+25 429 2147483630
+25 554 2147483630
+25 633 2147483630
+25 638 2147483630
+25 639 2147483630
+25 664 2147483630
+25 665 2147483630
+25 667 2147483630
+25 842 2147483630
+25 887 2147483630
+25 970 2147483630
+26 78 2147483630
+26 117 2147483631
+26 196 2147483630
+26 449 2147483630
+26 482 2147483630
+26 505 2147483630
+26 689 2147483630
+26 724 2147483630
+26 792 2147483630
+27 174 2147483630
+27 245 2147483630
+27 248 2147483630
+27 363 2147483630
+27 543 2147483630
+27 572 2147483630
+27 635 2147483630
+27 731 2147483630
+27 879 2147483630
+27 913 2147483630
+27 960 2147483630
+27 970 2147483630
+28 301 2147483630
+28 320 2147483630
+28 564 2147483630
+28 621 2147483630
+28 657 2147483630
+28 825 2147483630
+29 137 2147483630
+29 240 2147483630
+29 383 2147483630
+29 493 2147483630
+29 512 2147483630
+29 760 2147483630
+29 786 2147483630
+29 918 2147483630
+30 82 2147483630
+30 128 2147483631
+30 179 2147483630
+30 237 2147483630
+30 463 2147483630
+30 467 2147483630
+30 754 2147483630
+30 887 2147483630
+30 895 2147483630
+30 987 2147483630
+31 60 2147483630
+31 295 2147483631
+31 392 2147483630
+31 451 2147483630
+31 471 2147483630
+31 535 2147483630
+31 545 2147483630
+31 654 2147483630
+31 757 2147483630
+31 831 2147483630
+31 948 2147483630
+31 984 2147483630
+32 144 2147483630
+32 167 2147483630
+32 288 2147483630
+32 297 2147483630
+32 336 2147483630
+32 349 2147483630
+32 530 2147483630
+32 674 2147483630
+32 734 2147483630
+32 740 2147483630
+32 822 2147483630
+32 898 2147483630
+33 620 2147483630
+33 646 2147483630
+33 693 2147483630
+33 696 2147483630
+33 720 2147483630
+33 735 2147483630
+33 775 2147483630
+33 816 2147483630
+33 959 2147483630
+33 967 2147483630
+34 46 2147483630
+34 136 2147483631
+34 764 2147483630
+34 811 2147483630
+34 929 2147483630
+34 994 2147483630
+34 998 2147483630
+35 182 2147483630
+35 202 2147483630
+35 249 2147483630
+35 315 2147483630
+35 339 2147483630
+35 391 2147483630
+35 503 2147483630
+35 535 2147483630
+35 573 2147483630
+35 708 2147483630
+35 780 2147483630
+35 882 2147483630
+35 914 2147483630
+36 67 2147483630
+36 228 2147483631
+36 262 2147483630
+36 286 2147483630
+36 291 2147483630
+36 376 2147483630
+36 452 2147483630
+36 485 2147483630
+36 606 2147483630
+36 640 2147483630
+36 853 2147483630
+36 861 2147483630
+36 959 2147483630
+37 143 2147483630
+37 200 2147483630
+37 218 2147483630
+37 283 2147483630
+37 359 2147483630
+37 446 2147483630
+37 549 2147483630
+37 853 2147483630
+37 911 2147483630
+37 935 2147483630
+37 1000 2147483630
+38 64 2147483629
+38 87 2147483631
+38 171 2147483631
+38 228 2147483630
+38 255 2147483630
+38 295 2147483630
+38 366 2147483630
+38 413 2147483630
+38 608 2147483630
+38 688 2147483630
+38 834 2147483630
+38 936 2147483630
+39 135 2147483630
+39 223 2147483630
+39 242 2147483630
+39 466 2147483630
+39 490 2147483630
+39 584 2147483630
+39 657 2147483630
+39 757 2147483630
+40 53 2147483630
+40 145 2147483631
+40 248 2147483630
+40 251 2147483630
+40 477 2147483630
+40 808 2147483630
+40 898 2147483630
+40 983 2147483630
+41 277 2147483630
+41 280 2147483630
+41 329 2147483630
+41 869 2147483630
+42 66 2147483630
+42 70 2147483631
+42 153 2147483631
+42 167 2147483630
+42 235 2147483630
+42 259 2147483630
+42 323 2147483630
+42 756 2147483630
+42 773 2147483630
+42 913 2147483630
+42 937 2147483630
+42 971 2147483630
+43 168 2147483630
+43 176 2147483630
+43 221 2147483630
+43 833 2147483630
+43 874 2147483630
+43 977 2147483630
+44 129 2147483630
+44 140 2147483630
+44 180 2147483630
+44 233 2147483630
+44 254 2147483630
+44 359 2147483630
+44 383 2147483630
+44 491 2147483630
+44 567 2147483630
+44 586 2147483630
+44 632 2147483630
+44 882 2147483630
+44 885 2147483630
+45 286 2147483630
+45 368 2147483630
+45 404 2147483630
+45 499 2147483630
+45 670 2147483630
+45 848 2147483630
+45 889 2147483630
+45 909 2147483630
+45 921 2147483630
+45 939 2147483630
+46 286 2147483630
+46 335 2147483630
+46 477 2147483630
+46 562 2147483630
+46 565 2147483630
+46 599 2147483630
+46 709 2147483630
+46 864 2147483630
+46 904 2147483630
+46 974 2147483630
+47 56 2147483630
+47 96 2147483631
+47 182 2147483631
+47 298 2147483630
+47 828 2147483630
+47 925 2147483630
+48 109 2147483630
+48 124 2147483630
+48 200 2147483630
+48 241 2147483630
+48 282 2147483630
+48 308 2147483630
+48 313 2147483630
+48 359 2147483630
+48 558 2147483630
+48 603 2147483630
+48 683 2147483630
+48 724 2147483630
+48 824 2147483630
+48 896 2147483630
+49 68 2147483630
+49 158 2147483631
+49 199 2147483630
+49 493 2147483630
+49 607 2147483630
+50 111 2147483630
+50 212 2147483630
+50 328 2147483630
+50 532 2147483630
+50 633 2147483630
+50 668 2147483630
+50 757 2147483630
+50 822 2147483630
+50 851 2147483630
+50 887 2147483630
+51 214 2147483630
+51 275 2147483630
+51 629 2147483630
+51 640 2147483630
+51 747 2147483630
+51 927 2147483630
+51 956 2147483630
+52 126 2147483630
+52 203 2147483630
+52 247 2147483630
+52 482 2147483630
+52 533 2147483630
+52 577 2147483630
+52 580 2147483630
+52 668 2147483630
+52 900 2147483630
+53 136 2147483630
+53 155 2147483630
+53 203 2147483630
+53 288 2147483630
+53 352 2147483630
+53 566 2147483630
+53 778 2147483630
+53 959 2147483630
+53 966 2147483630
+54 138 2147483630
+54 292 2147483630
+54 348 2147483630
+54 480 2147483630
+54 535 2147483630
+54 661 2147483630
+54 682 2147483630
+54 689 2147483630
+54 811 2147483630
+54 854 2147483630
+54 876 2147483630
+54 896 2147483630
+55 85 2147483630
+55 279 2147483631
+55 402 2147483630
+55 601 2147483630
+55 610 2147483630
+55 617 2147483630
+55 662 2147483630
+55 811 2147483630
+55 836 2147483630
+55 837 2147483630
+55 962 2147483630
+55 970 2147483630
+56 134 2147483630
+56 237 2147483630
+56 291 2147483630
+56 331 2147483630
+56 387 2147483630
+56 487 2147483630
+56 494 2147483630
+56 588 2147483630
+56 673 2147483630
+56 793 2147483630
+56 805 2147483630
+56 938 2147483630
+57 128 2147483630
+57 305 2147483630
+57 350 2147483630
+57 441 2147483630
+57 531 2147483630
+57 650 2147483630
+57 869 2147483630
+57 875 2147483630
+57 901 2147483630
+57 941 2147483630
+57 963 2147483630
+58 163 2147483630
+58 171 2147483630
+58 187 2147483630
+58 337 2147483630
+58 424 2147483630
+58 515 2147483630
+58 608 2147483630
+58 693 2147483630
+58 829 2147483630
+58 953 2147483630
+58 999 2147483630
+59 114 2147483630
+59 254 2147483630
+59 282 2147483630
+59 460 2147483630
+59 509 2147483630
+59 803 2147483630
+59 853 2147483630
+59 940 2147483630
+60 333 2147483630
+60 446 2147483630
+60 450 2147483630
+60 494 2147483630
+60 904 2147483630
+60 960 2147483630
+61 73 2147483630
+61 264 2147483631
+61 583 2147483630
+61 658 2147483630
+61 730 2147483630
+61 940 2147483630
+62 130 2147483630
+62 162 2147483630
+62 272 2147483630
+62 276 2147483630
+62 358 2147483630
+62 400 2147483630
+62 401 2147483630
+62 760 2147483630
+62 853 2147483630
+62 899 2147483630
+62 908 2147483630
+63 159 2147483630
+63 241 2147483630
+63 274 2147483630
+63 278 2147483630
+63 369 2147483630
+63 419 2147483630
+63 517 2147483630
+64 141 2147483630
+64 148 2147483630
+64 292 2147483630
+64 478 2147483630
+64 486 2147483630
+64 546 2147483630
+64 563 2147483630
+64 626 2147483630
+64 775 2147483630
+64 926 2147483630
+65 95 2147483630
+65 239 2147483631
+65 342 2147483630
+65 492 2147483630
+65 507 2147483630
+65 541 2147483630
+65 583 2147483630
+65 687 2147483630
+65 802 2147483630
+66 237 2147483630
+66 353 2147483630
+66 468 2147483630
+66 479 2147483630
+66 540 2147483630
+66 572 2147483630
+66 724 2147483630
+66 761 2147483630
+66 807 2147483630
+66 884 2147483630
+66 904 2147483630
+67 436 2147483630
+67 657 2147483630
+67 773 2147483630
+67 816 2147483630
+67 913 2147483630
+68 146 2147483630
+68 251 2147483630
+68 400 2147483630
+68 423 2147483630
+68 592 2147483630
+68 720 2147483630
+68 781 2147483630
+68 782 2147483630
+68 857 2147483630
+68 897 2147483630
+68 984 2147483630
+69 115 2147483630
+69 499 2147483630
+69 575 2147483630
+69 693 2147483630
+69 769 2147483630
+70 200 2147483630
+70 392 2147483630
+70 714 2147483630
+70 994 2147483630
+71 259 2147483630
+71 425 2147483630
+71 432 2147483630
+71 434 2147483630
+71 562 2147483630
+71 603 2147483630
+71 709 2147483630
+71 714 2147483630
+72 222 2147483630
+72 291 2147483630
+72 447 2147483630
+72 555 2147483630
+72 609 2147483630
+72 660 2147483630
+72 818 2147483630
+72 899 2147483630
+72 939 2147483630
+72 961 2147483630
+72 992 2147483630
+73 122 2147483630
+73 170 2147483630
+73 173 2147483630
+73 623 2147483630
+73 863 2147483630
+73 870 2147483630
+73 915 2147483630
+74 119 2147483630
+74 126 2147483630
+74 155 2147483630
+74 160 2147483630
+74 362 2147483630
+74 434 2147483630
+74 438 2147483630
+74 515 2147483630
+74 539 2147483630
+74 542 2147483630
+74 726 2147483630
+74 768 2147483630
+74 852 2147483630
+74 880 2147483630
+74 935 2147483630
+74 974 2147483630
+75 112 2147483630
+75 203 2147483630
+75 274 2147483630
+75 397 2147483630
+75 412 2147483630
+75 508 2147483630
+75 730 2147483630
+75 754 2147483630
+75 954 2147483630
+76 116 2147483630
+76 150 2147483630
+76 446 2147483630
+76 578 2147483630
+76 682 2147483630
+76 725 2147483630
+76 780 2147483630
+77 105 2147483630
+77 247 2147483630
+77 363 2147483630
+77 419 2147483630
+77 662 2147483630
+77 722 2147483630
+77 757 2147483630
+77 895 2147483630
+77 911 2147483630
+78 198 2147483630
+78 244 2147483630
+78 565 2147483630
+78 668 2147483630
+78 689 2147483630
+78 712 2147483630
+78 750 2147483630
+78 771 2147483630
+78 915 2147483630
+79 162 2147483630
+79 369 2147483630
+79 583 2147483630
+79 619 2147483630
+79 706 2147483630
+79 738 2147483630
+79 801 2147483630
+79 850 2147483630
+79 965 2147483630
+80 216 2147483630
+80 365 2147483630
+80 485 2147483630
+80 566 2147483630
+80 572 2147483630
+80 644 2147483630
+80 645 2147483630
+80 871 2147483630
+80 886 2147483630
+80 937 2147483630
+81 96 2147483630
+81 220 2147483631
+81 397 2147483630
+81 440 2147483630
+81 549 2147483630
+81 755 2147483630
+81 851 2147483630
+81 933 2147483630
+81 943 2147483630
+81 981 2147483630
+82 256 2147483630
+82 339 2147483630
+82 350 2147483630
+82 370 2147483630
+82 418 2147483630
+82 527 2147483630
+82 705 2147483630
+82 712 2147483630
+82 768 2147483630
+82 818 2147483630
+82 832 2147483630
+82 897 2147483630
+83 367 2147483630
+83 380 2147483630
+83 394 2147483630
+83 607 2147483630
+83 683 2147483630
+83 707 2147483630
+83 789 2147483630
+83 845 2147483630
+83 892 2147483630
+83 921 2147483630
+83 925 2147483630
+83 980 2147483630
+83 994 2147483630
+84 341 2147483630
+84 343 2147483630
+84 438 2147483630
+84 803 2147483630
+84 848 2147483630
+84 963 2147483630
+84 972 2147483630
+85 119 2147483630
+85 147 2147483630
+85 216 2147483630
+85 221 2147483630
+85 230 2147483630
+85 295 2147483630
+85 432 2147483630
+85 579 2147483630
+85 651 2147483630
+85 659 2147483630
+85 673 2147483630
+85 753 2147483630
+85 776 2147483630
+85 805 2147483630
+85 885 2147483630
+86 209 2147483630
+86 332 2147483630
+86 444 2147483630
+86 454 2147483630
+86 480 2147483630
+86 508 2147483630
+86 541 2147483630
+86 687 2147483630
+86 750 2147483630
+86 787 2147483630
+86 941 2147483630
+87 94 2147483630
+87 115 2147483631
+87 146 2147483630
+87 158 2147483630
+87 362 2147483630
+87 384 2147483630
+87 643 2147483630
+87 730 2147483630
+87 746 2147483630
+87 752 2147483630
+88 285 2147483630
+88 369 2147483630
+88 586 2147483630
+88 610 2147483630
+89 204 2147483630
+89 305 2147483630
+89 350 2147483630
+89 533 2147483630
+89 573 2147483630
+89 576 2147483630
+89 601 2147483630
+89 669 2147483630
+89 787 2147483630
+89 835 2147483630
+89 963 2147483630
+90 113 2147483630
+90 207 2147483630
+90 233 2147483630
+90 397 2147483630
+90 404 2147483630
+90 431 2147483630
+90 611 2147483630
+90 676 2147483630
+90 962 2147483630
+91 121 2147483630
+91 156 2147483630
+91 165 2147483630
+91 204 2147483630
+91 302 2147483630
+91 363 2147483630
+91 871 2147483630
+91 883 2147483630
+92 102 2147483630
+92 129 2147483630
+92 131 2147483630
+92 378 2147483630
+92 385 2147483630
+92 699 2147483630
+92 724 2147483630
+92 898 2147483630
+92 960 2147483630
+92 961 2147483630
+92 985 2147483630
+93 129 2147483630
+93 225 2147483630
+93 279 2147483630
+93 673 2147483630
+93 953 2147483630
+94 294 2147483630
+94 305 2147483630
+94 361 2147483630
+94 384 2147483630
+94 431 2147483630
+94 513 2147483630
+94 607 2147483630
+94 649 2147483630
+94 663 2147483630
+95 150 2147483630
+95 307 2147483630
+95 322 2147483630
+95 333 2147483630
+95 335 2147483630
+95 510 2147483630
+95 523 2147483630
+95 580 2147483630
+95 665 2147483630
+95 711 2147483630
+95 818 2147483630
+95 998 2147483630
+95 999 2147483630
+96 101 2147483630
+96 447 2147483630
+96 520 2147483630
+96 629 2147483630
+96 707 2147483630
+96 842 2147483630
+97 128 2147483630
+97 186 2147483630
+97 238 2147483630
+97 293 2147483630
+97 307 2147483630
+97 308 2147483630
+97 361 2147483630
+97 424 2147483630
+97 456 2147483630
+97 484 2147483630
+97 523 2147483630
+97 779 2147483630
+97 817 2147483630
+97 875 2147483630
+97 907 2147483630
+98 125 2147483630
+98 316 2147483630
+98 465 2147483630
+98 539 2147483630
+98 603 2147483630
+98 666 2147483630
+99 120 2147483630
+99 690 2147483630
+99 755 2147483630
+99 765 2147483630
+99 889 2147483630
+100 126 2147483630
+100 190 2147483629
+100 287 2147483629
+100 311 2147483629
+100 343 2147483629
+100 487 2147483629
+100 513 2147483629
+100 557 2147483629
+100 574 2147483629
+100 575 2147483629
+100 602 2147483629
+100 721 2147483629
+100 770 2147483629
+100 910 2147483629
+100 947 2147483629
+101 219 2147483629
+101 376 2147483629
+101 577 2147483629
+101 661 2147483629
+101 705 2147483629
+101 818 2147483629
+101 828 2147483629
+101 857 2147483629
+102 308 2147483629
+102 318 2147483629
+102 654 2147483629
+102 879 2147483629
+103 320 2147483629
+103 376 2147483629
+103 521 2147483629
+103 597 2147483629
+103 751 2147483629
+103 768 2147483629
+103 853 2147483629
+103 902 2147483629
+103 916 2147483629
+104 247 2147483629
+104 390 2147483629
+104 469 2147483629
+104 734 2147483629
+104 836 2147483629
+104 913 2147483629
+105 137 2147483629
+105 183 2147483629
+105 272 2147483629
+105 551 2147483629
+105 762 2147483629
+106 308 2147483629
+106 355 2147483629
+106 591 2147483629
+106 838 2147483629
+106 937 2147483629
+107 120 2147483629
+107 370 2147483629
+107 396 2147483629
+107 520 2147483629
+107 531 2147483629
+107 598 2147483629
+107 693 2147483629
+107 720 2147483629
+107 727 2147483629
+107 771 2147483629
+107 920 2147483629
+107 937 2147483629
+108 157 2147483629
+108 274 2147483629
+108 381 2147483629
+108 382 2147483629
+108 580 2147483629
+108 714 2147483629
+108 809 2147483629
+108 896 2147483629
+109 397 2147483629
+109 423 2147483629
+109 473 2147483629
+109 485 2147483629
+109 653 2147483629
+109 667 2147483629
+109 799 2147483629
+109 822 2147483629
+109 843 2147483629
+109 872 2147483629
+110 138 2147483629
+110 149 2147483629
+110 236 2147483629
+110 251 2147483629
+110 428 2147483629
+110 535 2147483629
+110 586 2147483629
+110 656 2147483629
+110 923 2147483629
+110 958 2147483629
+111 120 2147483629
+111 126 2147483629
+111 237 2147483629
+111 274 2147483629
+111 569 2147483629
+111 618 2147483629
+111 711 2147483629
+111 906 2147483629
+111 918 2147483629
+111 946 2147483629
+111 968 2147483629
+112 220 2147483629
+112 247 2147483629
+112 249 2147483629
+112 351 2147483629
+112 369 2147483629
+112 454 2147483629
+112 651 2147483629
+112 727 2147483629
+112 791 2147483629
+112 939 2147483629
+112 982 2147483629
+113 129 2147483629
+113 160 2147483629
+113 170 2147483629
+113 227 2147483629
+113 329 2147483629
+113 529 2147483629
+113 531 2147483629
+113 572 2147483629
+113 616 2147483629
+113 637 2147483629
+113 652 2147483629
+114 205 2147483629
+114 248 2147483629
+114 271 2147483629
+114 672 2147483629
+114 675 2147483629
+114 787 2147483629
+115 215 2147483629
+115 538 2147483629
+115 734 2147483629
+115 796 2147483629
+115 824 2147483629
+115 826 2147483629
+116 202 2147483629
+116 227 2147483629
+116 280 2147483629
+116 482 2147483629
+116 556 2147483629
+116 559 2147483629
+116 675 2147483629
+116 715 2147483629
+116 768 2147483629
+116 769 2147483629
+116 804 2147483629
+116 873 2147483629
+116 984 2147483629
+116 996 2147483629
+117 192 2147483629
+117 257 2147483629
+117 258 2147483629
+117 260 2147483629
+117 264 2147483629
+117 564 2147483629
+117 792 2147483629
+117 834 2147483629
+117 999 2147483629
+118 172 2147483629
+118 347 2147483629
+118 461 2147483629
+118 561 2147483629
+118 651 2147483629
+118 782 2147483629
+118 885 2147483629
+118 944 2147483629
+119 378 2147483629
+119 450 2147483629
+119 642 2147483629
+119 978 2147483629
+120 184 2147483629
+120 212 2147483629
+120 250 2147483629
+120 401 2147483629
+120 404 2147483629
+120 412 2147483629
+120 537 2147483629
+120 574 2147483629
+120 577 2147483629
+120 580 2147483629
+120 663 2147483629
+120 679 2147483629
+120 758 2147483629
+120 772 2147483629
+120 905 2147483629
+120 920 2147483629
+121 197 2147483629
+121 365 2147483629
+121 544 2147483629
+121 674 2147483629
+121 696 2147483629
+121 821 2147483629
+122 198 2147483629
+122 276 2147483629
+122 428 2147483629
+122 496 2147483629
+122 550 2147483629
+122 735 2147483629
+123 124 2147483629
+123 475 2147483629
+123 774 2147483629
+123 925 2147483629
+124 206 2147483629
+124 365 2147483629
+124 501 2147483629
+124 600 2147483629
+124 666 2147483629
+124 731 2147483629
+124 831 2147483629
+124 867 2147483629
+124 888 2147483629
+125 131 2147483629
+125 136 2147483629
+125 231 2147483629
+125 234 2147483629
+125 278 2147483629
+125 299 2147483629
+125 313 2147483629
+125 600 2147483629
+125 635 2147483629
+125 657 2147483629
+125 712 2147483629
+125 751 2147483629
+125 794 2147483629
+126 378 2147483629
+126 413 2147483629
+126 414 2147483629
+126 609 2147483629
+126 642 2147483629
+126 663 2147483629
+126 684 2147483629
+126 713 2147483629
+126 786 2147483629
+126 836 2147483629
+126 920 2147483629
+126 972 2147483629
+127 179 2147483629
+127 278 2147483629
+127 349 2147483629
+127 471 2147483629
+127 601 2147483629
+127 608 2147483629
+127 643 2147483629
+127 755 2147483629
+127 830 2147483629
+127 879 2147483629
+127 889 2147483629
+128 237 2147483629
+128 288 2147483629
+128 292 2147483629
+128 305 2147483629
+128 379 2147483629
+128 433 2147483629
+128 552 2147483629
+128 556 2147483629
+128 559 2147483629
+128 614 2147483629
+128 689 2147483629
+128 712 2147483629
+128 726 2147483629
+128 736 2147483629
+128 808 2147483629
+128 812 2147483629
+128 921 2147483629
+128 996 2147483629
+129 263 2147483629
+129 304 2147483629
+129 417 2147483629
+129 428 2147483629
+129 473 2147483629
+129 709 2147483629
+129 740 2147483629
+129 838 2147483629
+129 899 2147483629
+130 193 2147483629
+130 333 2147483629
+130 566 2147483629
+130 659 2147483629
+130 722 2147483629
+130 746 2147483629
+130 990 2147483629
+131 239 2147483629
+131 244 2147483629
+131 349 2147483629
+131 508 2147483629
+131 548 2147483629
+131 694 2147483629
+131 767 2147483629
+131 806 2147483629
+131 943 2147483629
+132 462 2147483629
+132 533 2147483629
+132 539 2147483629
+132 545 2147483629
+132 551 2147483629
+132 846 2147483629
+133 196 2147483629
+133 229 2147483629
+133 324 2147483629
+133 327 2147483629
+133 420 2147483629
+133 460 2147483629
+133 478 2147483629
+133 540 2147483629
+133 583 2147483629
+133 621 2147483629
+133 840 2147483629
+134 265 2147483629
+134 451 2147483629
+134 842 2147483629
+134 870 2147483629
+134 919 2147483629
+134 978 2147483629
+135 327 2147483629
+135 340 2147483629
+135 416 2147483629
+135 475 2147483629
+135 489 2147483629
+135 521 2147483629
+135 716 2147483629
+135 731 2147483629
+135 907 2147483629
+135 983 2147483629
+135 991 2147483629
+136 231 2147483629
+136 283 2147483629
+136 371 2147483629
+136 403 2147483629
+136 455 2147483629
+136 456 2147483629
+136 577 2147483629
+137 318 2147483629
+137 363 2147483629
+137 410 2147483629
+137 414 2147483629
+137 631 2147483629
+137 782 2147483629
+137 830 2147483629
+138 143 2147483629
+138 209 2147483629
+138 226 2147483629
+138 257 2147483629
+138 266 2147483629
+138 419 2147483629
+138 430 2147483629
+138 616 2147483629
+139 206 2147483629
+139 336 2147483629
+139 344 2147483629
+139 404 2147483629
+139 459 2147483629
+139 609 2147483629
+139 770 2147483629
+139 876 2147483629
+139 915 2147483629
+140 221 2147483629
+140 229 2147483629
+140 342 2147483629
+140 358 2147483629
+140 466 2147483629
+140 637 2147483629
+140 709 2147483629
+140 757 2147483629
+140 795 2147483629
+140 930 2147483629
+140 967 2147483629
+141 268 2147483629
+141 283 2147483629
+141 324 2147483629
+141 497 2147483629
+141 551 2147483629
+141 575 2147483629
+141 607 2147483629
+141 625 2147483629
+141 737 2147483629
+141 824 2147483629
+142 148 2147483629
+142 162 2147483629
+142 271 2147483629
+142 643 2147483629
+142 666 2147483629
+142 691 2147483629
+142 778 2147483629
+142 866 2147483629
+142 995 2147483629
+143 212 2147483629
+143 257 2147483629
+143 271 2147483629
+143 380 2147483629
+143 489 2147483629
+143 490 2147483629
+143 547 2147483629
+143 582 2147483629
+143 600 2147483629
+143 643 2147483629
+144 253 2147483629
+144 342 2147483629
+144 378 2147483629
+144 405 2147483629
+144 604 2147483629
+144 638 2147483629
+145 499 2147483629
+145 511 2147483629
+145 798 2147483629
+145 839 2147483629
+145 894 2147483629
+145 919 2147483629
+145 990 2147483629
+146 267 2147483629
+146 309 2147483629
+146 410 2147483629
+146 442 2147483629
+146 468 2147483629
+146 623 2147483629
+146 701 2147483629
+146 759 2147483629
+146 982 2147483629
+147 302 2147483629
+147 440 2147483629
+147 551 2147483629
+147 656 2147483629
+147 706 2147483629
+147 818 2147483629
+147 945 2147483629
+148 291 2147483629
+148 443 2147483629
+148 570 2147483629
+148 857 2147483629
+149 236 2147483629
+149 734 2147483629
+149 863 2147483629
+149 973 2147483629
+150 204 2147483629
+150 264 2147483629
+150 330 2147483629
+150 337 2147483629
+150 347 2147483629
+150 552 2147483629
+150 838 2147483629
+150 910 2147483629
+150 942 2147483629
+150 958 2147483629
+151 262 2147483629
+151 531 2147483629
+151 706 2147483629
+151 802 2147483629
+151 869 2147483629
+152 279 2147483629
+152 571 2147483629
+152 648 2147483629
+152 742 2147483629
+152 929 2147483629
+153 172 2147483629
+153 232 2147483629
+153 338 2147483629
+153 351 2147483629
+153 408 2147483629
+153 555 2147483629
+153 583 2147483629
+153 854 2147483629
+153 989 2147483629
+154 243 2147483629
+154 265 2147483629
+154 301 2147483629
+154 374 2147483629
+154 383 2147483629
+154 395 2147483629
+154 587 2147483629
+154 715 2147483629
+154 744 2147483629
+155 164 2147483629
+155 180 2147483629
+155 203 2147483629
+155 487 2147483629
+155 632 2147483629
+155 741 2147483629
+155 806 2147483629
+155 906 2147483629
+155 963 2147483629
+155 978 2147483629
+155 982 2147483629
+156 397 2147483629
+156 410 2147483629
+156 472 2147483629
+156 503 2147483629
+156 504 2147483629
+156 575 2147483629
+156 576 2147483629
+156 593 2147483629
+156 611 2147483629
+156 633 2147483629
+156 685 2147483629
+156 775 2147483629
+157 227 2147483629
+157 672 2147483629
+157 700 2147483629
+157 846 2147483629
+158 169 2147483629
+158 279 2147483629
+158 360 2147483629
+158 361 2147483629
+158 401 2147483629
+158 625 2147483629
+158 646 2147483629
+158 651 2147483629
+158 784 2147483629
+158 821 2147483629
+158 995 2147483629
+159 225 2147483629
+159 236 2147483629
+159 259 2147483629
+159 389 2147483629
+159 713 2147483629
+159 735 2147483629
+159 781 2147483629
+159 898 2147483629
+160 297 2147483629
+160 470 2147483629
+160 577 2147483629
+160 661 2147483629
+160 850 2147483629
+160 906 2147483629
+161 312 2147483629
+161 331 2147483629
+161 382 2147483629
+161 410 2147483629
+161 434 2147483629
+161 505 2147483629
+161 640 2147483629
+161 717 2147483629
+161 760 2147483629
+161 814 2147483629
+162 285 2147483629
+162 329 2147483629
+162 485 2147483629
+162 535 2147483629
+162 934 2147483629
+162 939 2147483629
+163 311 2147483629
+163 390 2147483629
+163 497 2147483629
+163 665 2147483629
+163 889 2147483629
+164 399 2147483629
+164 408 2147483629
+164 494 2147483629
+164 515 2147483629
+164 520 2147483629
+164 522 2147483629
+164 856 2147483629
+164 903 2147483629
+164 994 2147483629
+165 589 2147483629
+165 874 2147483629
+165 881 2147483629
+166 642 2147483629
+166 680 2147483629
+166 894 2147483629
+167 185 2147483629
+167 334 2147483629
+167 502 2147483629
+167 573 2147483629
+167 636 2147483629
+167 746 2147483629
+167 780 2147483629
+168 204 2147483629
+168 230 2147483629
+168 321 2147483629
+168 486 2147483629
+168 488 2147483629
+168 546 2147483629
+168 549 2147483629
+168 718 2147483629
+168 821 2147483629
+168 899 2147483629
+168 926 2147483629
+168 928 2147483629
+168 992 2147483629
+169 181 2147483629
+169 192 2147483629
+169 237 2147483629
+169 450 2147483629
+169 493 2147483629
+169 712 2147483629
+169 737 2147483629
+169 757 2147483629
+169 885 2147483629
+170 224 2147483629
+170 236 2147483629
+170 451 2147483629
+170 630 2147483629
+170 706 2147483629
+171 292 2147483629
+171 444 2147483629
+171 512 2147483629
+171 712 2147483629
+172 238 2147483629
+172 331 2147483629
+172 412 2147483629
+172 531 2147483629
+172 650 2147483629
+172 744 2147483629
+172 784 2147483629
+172 827 2147483629
+173 441 2147483629
+173 480 2147483629
+173 578 2147483629
+173 664 2147483629
+173 697 2147483629
+173 767 2147483629
+173 801 2147483629
+173 852 2147483629
+173 883 2147483629
+173 931 2147483629
+173 940 2147483629
+174 351 2147483629
+174 494 2147483629
+174 607 2147483629
+174 773 2147483629
+174 830 2147483629
+174 840 2147483629
+174 841 2147483629
+174 919 2147483629
+175 210 2147483629
+175 226 2147483629
+175 228 2147483629
+175 234 2147483629
+175 316 2147483629
+175 381 2147483629
+175 457 2147483629
+175 538 2147483629
+175 614 2147483629
+176 388 2147483629
+176 497 2147483629
+176 578 2147483629
+176 631 2147483629
+176 933 2147483629
+176 955 2147483629
+176 975 2147483629
+177 265 2147483629
+177 283 2147483629
+177 547 2147483629
+177 680 2147483629
+177 891 2147483629
+178 389 2147483629
+178 398 2147483629
+178 427 2147483629
+178 501 2147483629
+178 513 2147483629
+178 522 2147483629
+178 674 2147483629
+178 734 2147483629
+179 199 2147483629
+179 321 2147483629
+179 429 2147483629
+179 549 2147483629
+179 584 2147483629
+179 585 2147483629
+179 803 2147483629
+179 883 2147483629
+180 237 2147483629
+180 261 2147483629
+180 460 2147483629
+180 638 2147483629
+180 708 2147483629
+180 754 2147483629
+180 757 2147483629
+180 781 2147483629
+180 789 2147483629
+180 796 2147483629
+180 896 2147483629
+180 951 2147483629
+180 986 2147483629
+181 415 2147483629
+181 436 2147483629
+181 640 2147483629
+181 858 2147483629
+181 915 2147483629
+182 227 2147483629
+182 396 2147483629
+182 423 2147483629
+182 425 2147483629
+182 532 2147483629
+182 609 2147483629
+182 755 2147483629
+182 777 2147483629
+182 953 2147483629
+183 184 2147483629
+183 307 2147483629
+183 310 2147483629
+183 325 2147483629
+183 491 2147483629
+183 539 2147483629
+183 584 2147483629
+183 592 2147483629
+183 598 2147483629
+183 739 2147483629
+183 861 2147483629
+183 952 2147483629
+184 229 2147483629
+184 267 2147483629
+184 309 2147483629
+184 348 2147483629
+184 454 2147483629
+184 511 2147483629
+184 558 2147483629
+184 586 2147483629
+184 639 2147483629
+184 650 2147483629
+184 738 2147483629
+184 933 2147483629
+185 201 2147483629
+185 204 2147483629
+185 216 2147483629
+185 294 2147483629
+185 309 2147483629
+185 528 2147483629
+185 541 2147483629
+185 560 2147483629
+185 658 2147483629
+185 803 2147483629
+185 831 2147483629
+185 909 2147483629
+185 986 2147483629
+186 232 2147483629
+186 265 2147483629
+186 337 2147483629
+186 356 2147483629
+186 924 2147483629
+187 567 2147483629
+187 596 2147483629
+187 772 2147483629
+187 904 2147483629
+187 912 2147483629
+187 969 2147483629
+188 213 2147483629
+188 687 2147483629
+188 719 2147483629
+188 971 2147483629
+189 200 2147483629
+189 338 2147483629
+189 354 2147483629
+189 496 2147483629
+189 600 2147483629
+189 616 2147483629
+189 717 2147483629
+190 210 2147483629
+190 364 2147483629
+190 555 2147483629
+190 601 2147483629
+190 602 2147483629
+190 805 2147483629
+190 820 2147483629
+190 886 2147483629
+191 208 2147483629
+191 246 2147483629
+191 308 2147483629
+191 408 2147483629
+191 412 2147483629
+191 501 2147483629
+191 603 2147483629
+191 647 2147483629
+191 754 2147483629
+191 787 2147483629
+191 833 2147483629
+191 872 2147483629
+192 221 2147483629
+192 509 2147483629
+192 579 2147483629
+192 611 2147483629
+192 623 2147483629
+192 686 2147483629
+192 688 2147483629
+192 898 2147483629
+193 284 2147483629
+193 449 2147483629
+193 698 2147483629
+193 796 2147483629
+193 837 2147483629
+194 372 2147483629
+194 459 2147483629
+194 488 2147483629
+194 755 2147483629
+194 975 2147483629
+195 798 2147483629
+195 942 2147483629
+196 201 2147483629
+196 247 2147483629
+196 419 2147483629
+196 686 2147483629
+196 749 2147483629
+196 846 2147483629
+196 918 2147483629
+196 953 2147483629
+196 970 2147483629
+197 211 2147483629
+197 243 2147483629
+197 321 2147483629
+197 375 2147483629
+197 421 2147483629
+197 489 2147483629
+197 677 2147483629
+197 892 2147483629
+197 902 2147483629
+198 315 2147483629
+198 332 2147483629
+198 477 2147483629
+198 566 2147483629
+198 691 2147483629
+198 724 2147483629
+198 811 2147483629
+198 994 2147483629
+199 211 2147483629
+199 254 2147483629
+199 427 2147483629
+199 510 2147483629
+199 606 2147483629
+199 607 2147483629
+199 609 2147483629
+199 746 2147483629
+199 824 2147483629
+200 272 2147483629
+200 294 2147483629
+200 310 2147483629
+200 627 2147483629
+200 842 2147483629
+200 910 2147483629
+201 260 2147483629
+201 351 2147483629
+201 397 2147483629
+201 543 2147483629
+201 612 2147483629
+201 666 2147483629
+201 931 2147483629
+202 211 2147483629
+202 400 2147483629
+202 419 2147483629
+202 494 2147483629
+202 549 2147483629
+202 581 2147483629
+202 806 2147483629
+202 912 2147483629
+202 926 2147483629
+202 987 2147483629
+202 996 2147483629
+203 223 2147483629
+203 297 2147483629
+203 300 2147483629
+203 303 2147483629
+203 328 2147483629
+203 374 2147483629
+203 584 2147483629
+203 642 2147483629
+203 702 2147483629
+203 765 2147483629
+203 809 2147483629
+203 877 2147483629
+203 926 2147483629
+204 254 2147483629
+204 283 2147483629
+204 356 2147483629
+204 510 2147483629
+204 558 2147483629
+204 560 2147483629
+205 288 2147483629
+205 400 2147483629
+205 589 2147483629
+205 656 2147483629
+205 900 2147483629
+205 945 2147483629
+206 210 2147483629
+206 254 2147483629
+206 266 2147483629
+206 522 2147483629
+206 696 2147483629
+206 980 2147483629
+207 279 2147483629
+207 299 2147483629
+207 340 2147483629
+207 632 2147483629
+207 669 2147483629
+207 680 2147483629
+207 705 2147483629
+207 713 2147483629
+207 735 2147483629
+207 740 2147483629
+207 896 2147483629
+207 970 2147483629
+208 281 2147483629
+208 350 2147483629
+208 361 2147483629
+208 416 2147483629
+208 425 2147483629
+208 778 2147483629
+208 994 2147483629
+209 407 2147483629
+209 428 2147483629
+209 453 2147483629
+209 476 2147483629
+209 575 2147483629
+209 583 2147483629
+209 642 2147483629
+210 215 2147483629
+210 244 2147483629
+210 304 2147483629
+210 352 2147483629
+210 396 2147483629
+210 562 2147483629
+210 654 2147483629
+210 799 2147483629
+210 843 2147483629
+210 902 2147483629
+211 512 2147483629
+211 590 2147483629
+211 870 2147483629
+211 884 2147483629
+211 915 2147483629
+211 929 2147483629
+212 217 2147483629
+212 240 2147483629
+212 482 2147483629
+212 531 2147483629
+212 569 2147483629
+212 595 2147483629
+212 694 2147483629
+212 739 2147483629
+212 790 2147483629
+212 819 2147483629
+212 952 2147483629
+212 959 2147483629
+212 963 2147483629
+213 369 2147483629
+213 453 2147483629
+213 782 2147483629
+213 901 2147483629
+214 339 2147483629
+214 430 2147483629
+214 439 2147483629
+214 488 2147483629
+214 570 2147483629
+214 623 2147483629
+214 803 2147483629
+214 873 2147483629
+214 885 2147483629
+214 972 2147483629
+215 283 2147483629
+215 318 2147483629
+215 324 2147483629
+215 466 2147483629
+215 539 2147483629
+215 627 2147483629
+215 641 2147483629
+215 682 2147483629
+215 883 2147483629
+215 919 2147483629
+215 938 2147483629
+216 229 2147483629
+216 249 2147483629
+216 281 2147483629
+216 408 2147483629
+216 443 2147483629
+216 899 2147483629
+217 267 2147483629
+217 416 2147483629
+217 813 2147483629
+218 221 2147483629
+218 258 2147483629
+218 457 2147483629
+218 469 2147483629
+218 569 2147483629
+218 594 2147483629
+218 792 2147483629
+218 796 2147483629
+218 811 2147483629
+219 321 2147483629
+219 363 2147483629
+219 467 2147483629
+219 501 2147483629
+219 643 2147483629
+219 851 2147483629
+219 941 2147483629
+220 330 2147483629
+220 429 2147483629
+220 439 2147483629
+220 998 2147483629
+221 515 2147483629
+221 538 2147483629
+221 567 2147483629
+221 923 2147483629
+221 979 2147483629
+222 250 2147483629
+222 253 2147483629
+222 302 2147483629
+222 373 2147483629
+222 378 2147483629
+222 450 2147483629
+222 736 2147483629
+222 779 2147483629
+223 285 2147483629
+223 340 2147483629
+223 434 2147483629
+223 460 2147483629
+223 542 2147483629
+223 559 2147483629
+223 760 2147483629
+223 828 2147483629
+223 894 2147483629
+224 338 2147483629
+224 460 2147483629
+224 527 2147483629
+224 556 2147483629
+224 665 2147483629
+224 683 2147483629
+224 696 2147483629
+224 833 2147483629
+224 926 2147483629
+225 237 2147483629
+225 247 2147483629
+225 357 2147483629
+225 451 2147483629
+225 479 2147483629
+225 618 2147483629
+225 741 2147483629
+225 841 2147483629
+225 867 2147483629
+225 876 2147483629
+226 229 2147483629
+226 280 2147483629
+226 353 2147483629
+226 429 2147483629
+226 535 2147483629
+226 652 2147483629
+226 713 2147483629
+226 832 2147483629
+226 929 2147483629
+227 233 2147483629
+227 320 2147483629
+227 370 2147483629
+227 377 2147483629
+227 496 2147483629
+227 517 2147483629
+227 582 2147483629
+227 587 2147483629
+227 670 2147483629
+227 748 2147483629
+227 886 2147483629
+228 379 2147483629
+228 473 2147483629
+228 605 2147483629
+228 614 2147483629
+228 751 2147483629
+228 824 2147483629
+228 854 2147483629
+229 442 2147483629
+229 480 2147483629
+229 622 2147483629
+229 777 2147483629
+229 852 2147483629
+229 986 2147483629
+230 355 2147483629
+230 382 2147483629
+230 384 2147483629
+230 421 2147483629
+230 544 2147483629
+230 580 2147483629
+230 753 2147483629
+230 869 2147483629
+231 240 2147483629
+231 357 2147483629
+231 378 2147483629
+231 743 2147483629
+232 367 2147483629
+232 423 2147483629
+232 441 2147483629
+232 472 2147483629
+232 734 2147483629
+233 266 2147483629
+233 311 2147483629
+233 505 2147483629
+233 538 2147483629
+233 541 2147483629
+233 602 2147483629
+233 620 2147483629
+233 796 2147483629
+233 838 2147483629
+234 255 2147483629
+234 369 2147483629
+234 438 2147483629
+234 500 2147483629
+234 665 2147483629
+234 696 2147483629
+234 843 2147483629
+234 896 2147483629
+234 937 2147483629
+234 968 2147483629
+235 248 2147483629
+235 291 2147483629
+235 348 2147483629
+235 349 2147483629
+235 423 2147483629
+235 552 2147483629
+235 643 2147483629
+235 666 2147483629
+235 847 2147483629
+235 908 2147483629
+235 962 2147483629
+236 355 2147483629
+236 365 2147483629
+236 485 2147483629
+236 562 2147483629
+236 614 2147483629
+236 621 2147483629
+236 748 2147483629
+236 978 2147483629
+237 508 2147483629
+237 514 2147483629
+237 639 2147483629
+237 708 2147483629
+237 766 2147483629
+237 824 2147483629
+237 916 2147483629
+237 962 2147483629
+237 1000 2147483629
+238 249 2147483628
+238 280 2147483629
+238 358 2147483629
+238 359 2147483629
+238 413 2147483629
+238 497 2147483629
+238 517 2147483629
+238 635 2147483629
+238 663 2147483629
+238 781 2147483629
+238 962 2147483629
+239 370 2147483629
+239 653 2147483629
+239 866 2147483629
+240 251 2147483629
+240 305 2147483629
+240 371 2147483629
+240 413 2147483629
+240 480 2147483629
+240 551 2147483629
+240 681 2147483629
+240 783 2147483629
+240 898 2147483629
+240 933 2147483629
+241 351 2147483629
+241 356 2147483629
+241 497 2147483629
+241 551 2147483629
+241 566 2147483629
+241 878 2147483629
+241 968 2147483629
+242 302 2147483629
+242 416 2147483629
+242 423 2147483629
+242 454 2147483629
+242 471 2147483629
+242 568 2147483629
+242 651 2147483629
+242 678 2147483629
+242 680 2147483629
+242 702 2147483629
+242 724 2147483629
+242 853 2147483629
+242 886 2147483629
+242 908 2147483629
+242 920 2147483629
+242 926 2147483629
+243 244 2147483629
+243 325 2147483629
+243 504 2147483629
+243 622 2147483629
+243 904 2147483629
+243 916 2147483629
+243 947 2147483629
+243 995 2147483629
+244 274 2147483629
+244 300 2147483629
+244 322 2147483629
+244 343 2147483629
+244 364 2147483629
+244 443 2147483629
+244 667 2147483629
+244 708 2147483629
+244 836 2147483629
+245 393 2147483629
+245 402 2147483629
+245 415 2147483629
+245 429 2147483629
+245 471 2147483629
+245 751 2147483629
+245 909 2147483629
+245 983 2147483629
+246 476 2147483629
+246 613 2147483629
+246 632 2147483629
+246 751 2147483629
+246 831 2147483629
+246 872 2147483629
+246 896 2147483629
+246 994 2147483629
+247 281 2147483629
+247 634 2147483629
+247 644 2147483629
+248 265 2147483629
+248 281 2147483629
+248 282 2147483629
+248 560 2147483629
+248 700 2147483629
+248 722 2147483629
+248 962 2147483629
+248 981 2147483629
+249 527 2147483629
+249 627 2147483629
+249 691 2147483629
+249 743 2147483629
+250 263 2147483629
+250 419 2147483629
+250 492 2147483629
+250 547 2147483629
+250 573 2147483629
+250 620 2147483629
+250 655 2147483629
+250 686 2147483629
+250 701 2147483629
+251 271 2147483629
+251 390 2147483629
+251 456 2147483629
+251 502 2147483629
+251 562 2147483629
+251 630 2147483629
+251 713 2147483629
+251 787 2147483629
+251 909 2147483629
+252 317 2147483629
+252 347 2147483629
+252 366 2147483629
+252 386 2147483629
+252 455 2147483629
+252 618 2147483629
+252 625 2147483629
+252 658 2147483629
+252 767 2147483629
+252 768 2147483629
+252 822 2147483629
+252 889 2147483629
+252 897 2147483629
+252 997 2147483629
+253 298 2147483629
+253 319 2147483629
+253 458 2147483629
+253 577 2147483629
+253 625 2147483629
+253 700 2147483629
+253 772 2147483629
+253 789 2147483629
+253 931 2147483629
+254 385 2147483629
+254 427 2147483629
+254 461 2147483629
+254 560 2147483629
+254 849 2147483629
+254 989 2147483629
+255 418 2147483629
+255 495 2147483629
+255 824 2147483629
+256 321 2147483629
+256 373 2147483629
+256 410 2147483629
+256 633 2147483629
+256 840 2147483629
+257 277 2147483629
+257 330 2147483629
+257 486 2147483629
+257 549 2147483629
+257 679 2147483629
+257 821 2147483629
+257 959 2147483629
+258 274 2147483629
+258 738 2147483629
+258 794 2147483629
+258 800 2147483629
+258 856 2147483629
+258 868 2147483629
+258 938 2147483629
+258 950 2147483629
+258 986 2147483629
+259 437 2147483629
+259 441 2147483629
+259 551 2147483629
+259 699 2147483629
+260 369 2147483629
+260 406 2147483629
+260 541 2147483629
+260 667 2147483629
+260 786 2147483629
+260 863 2147483629
+260 891 2147483629
+260 921 2147483629
+261 373 2147483629
+261 431 2147483629
+261 453 2147483629
+261 554 2147483629
+261 558 2147483629
+261 635 2147483629
+261 953 2147483629
+262 338 2147483629
+262 462 2147483629
+262 511 2147483629
+262 610 2147483629
+262 816 2147483629
+262 822 2147483629
+262 832 2147483629
+263 330 2147483629
+263 559 2147483629
+263 740 2147483629
+263 983 2147483629
+263 998 2147483629
+264 363 2147483629
+264 437 2147483629
+264 452 2147483629
+264 465 2147483629
+264 527 2147483629
+264 659 2147483629
+264 769 2147483629
+264 874 2147483629
+265 326 2147483629
+265 397 2147483629
+265 507 2147483629
+265 527 2147483629
+265 587 2147483629
+265 600 2147483629
+265 652 2147483629
+265 691 2147483629
+265 811 2147483629
+265 918 2147483629
+265 964 2147483629
+266 293 2147483629
+266 402 2147483629
+266 629 2147483629
+266 670 2147483629
+266 815 2147483629
+266 958 2147483629
+267 362 2147483629
+267 473 2147483629
+267 521 2147483629
+267 726 2147483629
+267 739 2147483629
+267 766 2147483629
+267 818 2147483629
+267 862 2147483629
+268 687 2147483629
+268 706 2147483629
+268 784 2147483629
+268 806 2147483629
+269 410 2147483629
+269 439 2147483629
+269 573 2147483629
+269 637 2147483629
+269 709 2147483629
+269 720 2147483629
+269 781 2147483629
+269 789 2147483629
+269 821 2147483629
+269 873 2147483629
+269 971 2147483629
+270 567 2147483629
+270 592 2147483629
+270 796 2147483629
+271 381 2147483629
+271 431 2147483629
+271 563 2147483629
+271 565 2147483629
+271 824 2147483629
+272 390 2147483629
+272 713 2147483629
+272 719 2147483629
+272 802 2147483629
+273 528 2147483629
+273 591 2147483629
+273 919 2147483629
+274 522 2147483629
+274 535 2147483629
+274 632 2147483629
+274 808 2147483629
+274 839 2147483629
+274 889 2147483629
+274 912 2147483629
+275 278 2147483629
+275 329 2147483629
+275 330 2147483629
+275 395 2147483629
+275 474 2147483629
+275 544 2147483629
+275 633 2147483629
+275 733 2147483629
+275 862 2147483629
+276 359 2147483629
+276 404 2147483629
+276 548 2147483629
+276 700 2147483629
+276 714 2147483629
+276 812 2147483629
+276 891 2147483629
+276 968 2147483629
+277 302 2147483629
+277 331 2147483629
+277 475 2147483629
+277 502 2147483629
+277 504 2147483629
+277 597 2147483629
+277 658 2147483629
+277 751 2147483629
+277 848 2147483629
+277 854 2147483629
+277 919 2147483629
+278 376 2147483629
+278 469 2147483629
+278 609 2147483629
+278 648 2147483629
+278 838 2147483629
+278 847 2147483629
+278 961 2147483629
+279 296 2147483629
+279 421 2147483629
+279 520 2147483629
+279 575 2147483629
+279 603 2147483629
+279 717 2147483629
+279 728 2147483629
+279 763 2147483629
+279 867 2147483629
+279 874 2147483629
+279 878 2147483629
+279 946 2147483629
+279 962 2147483629
+279 969 2147483629
+280 290 2147483629
+280 363 2147483629
+280 613 2147483629
+280 660 2147483629
+280 774 2147483629
+280 803 2147483629
+280 906 2147483629
+280 988 2147483629
+281 292 2147483629
+281 422 2147483629
+281 536 2147483629
+281 631 2147483629
+281 647 2147483629
+281 730 2147483629
+281 783 2147483629
+281 825 2147483629
+282 297 2147483629
+282 326 2147483629
+282 406 2147483629
+282 498 2147483629
+282 671 2147483629
+282 767 2147483629
+282 852 2147483629
+282 887 2147483629
+282 940 2147483629
+283 338 2147483629
+283 359 2147483629
+283 386 2147483629
+283 619 2147483629
+283 732 2147483629
+283 757 2147483629
+283 783 2147483629
+283 862 2147483629
+283 952 2147483629
+284 311 2147483629
+284 428 2147483629
+284 528 2147483629
+284 534 2147483629
+284 642 2147483629
+284 777 2147483629
+284 967 2147483629
+285 331 2147483629
+285 402 2147483629
+285 474 2147483629
+285 479 2147483629
+285 714 2147483629
+285 732 2147483629
+285 823 2147483629
+285 857 2147483629
+285 876 2147483629
+286 333 2147483629
+286 356 2147483629
+286 447 2147483629
+286 482 2147483629
+286 564 2147483629
+286 897 2147483629
+287 970 2147483629
+288 316 2147483629
+288 348 2147483629
+288 356 2147483629
+288 517 2147483629
+288 611 2147483629
+288 783 2147483629
+288 804 2147483629
+289 536 2147483629
+289 575 2147483629
+289 635 2147483629
+289 741 2147483629
+289 763 2147483629
+289 862 2147483629
+290 302 2147483629
+290 345 2147483629
+290 411 2147483629
+290 483 2147483629
+291 305 2147483629
+291 377 2147483629
+291 529 2147483629
+291 539 2147483629
+291 564 2147483629
+291 622 2147483629
+291 702 2147483629
+291 920 2147483629
+292 465 2147483629
+292 480 2147483629
+292 564 2147483629
+292 656 2147483629
+292 893 2147483629
+293 397 2147483629
+293 674 2147483629
+293 749 2147483629
+293 826 2147483629
+293 926 2147483629
+294 370 2147483629
+294 623 2147483629
+294 816 2147483629
+294 966 2147483629
+295 313 2147483629
+295 592 2147483629
+295 604 2147483629
+295 620 2147483629
+295 855 2147483629
+295 861 2147483629
+295 926 2147483629
+295 957 2147483629
+296 306 2147483629
+296 325 2147483629
+296 474 2147483629
+296 521 2147483629
+296 709 2147483629
+296 742 2147483629
+296 764 2147483629
+297 307 2147483629
+297 394 2147483629
+297 556 2147483629
+297 824 2147483629
+298 319 2147483629
+298 364 2147483629
+298 403 2147483629
+298 487 2147483629
+298 627 2147483629
+298 641 2147483629
+299 351 2147483629
+299 369 2147483629
+299 380 2147483629
+299 582 2147483629
+299 692 2147483629
+299 790 2147483629
+299 816 2147483629
+299 912 2147483629
+300 434 2147483629
+300 589 2147483629
+300 594 2147483629
+300 705 2147483629
+300 721 2147483629
+300 790 2147483629
+300 822 2147483629
+300 912 2147483629
+300 989 2147483629
+301 364 2147483629
+301 450 2147483629
+301 490 2147483629
+301 651 2147483629
+301 697 2147483629
+301 737 2147483629
+302 645 2147483629
+302 718 2147483629
+302 763 2147483629
+302 818 2147483629
+303 344 2147483629
+303 398 2147483629
+303 454 2147483629
+303 521 2147483629
+303 629 2147483629
+303 663 2147483629
+303 738 2147483629
+303 893 2147483629
+304 357 2147483629
+304 473 2147483629
+304 803 2147483629
+304 924 2147483629
+304 968 2147483629
+305 424 2147483629
+305 588 2147483629
+305 620 2147483629
+305 655 2147483629
+305 709 2147483629
+305 735 2147483629
+305 745 2147483629
+305 882 2147483629
+305 972 2147483629
+306 363 2147483629
+306 410 2147483629
+306 419 2147483629
+306 486 2147483629
+306 496 2147483629
+306 531 2147483629
+306 560 2147483629
+306 610 2147483629
+307 486 2147483629
+307 967 2147483629
+307 995 2147483629
+308 457 2147483629
+308 726 2147483629
+308 932 2147483629
+309 329 2147483629
+309 413 2147483629
+309 468 2147483629
+309 517 2147483629
+309 581 2147483629
+309 896 2147483629
+310 336 2147483629
+310 403 2147483629
+310 416 2147483629
+310 458 2147483629
+310 591 2147483629
+310 607 2147483629
+310 822 2147483629
+310 896 2147483629
+310 914 2147483629
+310 1000 2147483629
+311 344 2147483628
+311 379 2147483629
+311 519 2147483629
+311 527 2147483629
+311 555 2147483629
+311 625 2147483629
+311 665 2147483629
+311 824 2147483629
+311 840 2147483629
+311 878 2147483629
+311 924 2147483629
+311 931 2147483629
+312 332 2147483629
+312 393 2147483629
+312 504 2147483629
+312 934 2147483629
+312 977 2147483629
+313 421 2147483629
+313 453 2147483629
+313 569 2147483629
+313 693 2147483629
+313 881 2147483629
+314 388 2147483629
+314 399 2147483629
+314 687 2147483629
+314 801 2147483629
+314 802 2147483629
+314 931 2147483629
+315 437 2147483629
+315 566 2147483629
+315 599 2147483629
+315 659 2147483629
+315 664 2147483629
+315 766 2147483629
+315 857 2147483629
+315 894 2147483629
+315 945 2147483629
+316 347 2147483629
+316 411 2147483629
+316 459 2147483629
+316 771 2147483629
+316 832 2147483629
+316 899 2147483629
+316 997 2147483629
+317 575 2147483629
+317 675 2147483629
+317 684 2147483629
+317 845 2147483629
+317 965 2147483629
+318 357 2147483629
+318 503 2147483629
+318 575 2147483629
+318 688 2147483629
+318 735 2147483629
+318 897 2147483629
+318 952 2147483629
+318 992 2147483629
+319 375 2147483629
+319 645 2147483629
+319 665 2147483629
+319 891 2147483629
+319 944 2147483629
+319 970 2147483629
+320 340 2147483629
+320 418 2147483629
+320 610 2147483629
+320 631 2147483629
+320 731 2147483629
+320 753 2147483629
+321 352 2147483629
+321 494 2147483629
+321 795 2147483629
+321 801 2147483629
+321 822 2147483629
+321 842 2147483629
+321 904 2147483629
+322 391 2147483629
+322 416 2147483629
+322 479 2147483629
+322 551 2147483629
+322 687 2147483629
+322 716 2147483629
+322 752 2147483629
+323 554 2147483629
+323 594 2147483629
+323 603 2147483629
+323 642 2147483629
+323 676 2147483629
+324 339 2147483629
+324 465 2147483629
+324 584 2147483629
+324 636 2147483629
+324 666 2147483629
+324 739 2147483629
+324 740 2147483629
+324 771 2147483629
+324 780 2147483629
+324 817 2147483629
+324 982 2147483629
+325 352 2147483629
+325 384 2147483629
+325 556 2147483629
+325 560 2147483629
+325 574 2147483629
+325 659 2147483629
+325 749 2147483629
+325 870 2147483629
+326 361 2147483629
+326 373 2147483629
+326 440 2147483629
+326 455 2147483629
+326 463 2147483629
+326 563 2147483629
+327 565 2147483629
+327 579 2147483629
+327 581 2147483629
+327 721 2147483629
+327 739 2147483629
+327 791 2147483629
+327 878 2147483629
+327 908 2147483629
+328 350 2147483629
+328 829 2147483629
+328 941 2147483629
+328 948 2147483629
+329 535 2147483629
+329 675 2147483629
+330 412 2147483629
+330 413 2147483629
+330 490 2147483629
+330 570 2147483629
+330 598 2147483629
+330 752 2147483629
+330 840 2147483629
+330 901 2147483629
+330 980 2147483629
+331 373 2147483629
+331 534 2147483629
+331 584 2147483629
+331 651 2147483629
+331 676 2147483629
+331 737 2147483629
+331 768 2147483629
+331 927 2147483629
+331 945 2147483629
+331 967 2147483629
+332 352 2147483629
+332 404 2147483629
+332 465 2147483629
+332 593 2147483629
+332 666 2147483629
+332 759 2147483629
+332 799 2147483629
+332 818 2147483629
+333 433 2147483629
+333 470 2147483629
+333 746 2147483629
+333 789 2147483629
+333 871 2147483629
+333 969 2147483629
+334 350 2147483629
+334 379 2147483629
+334 507 2147483629
+334 517 2147483629
+334 576 2147483629
+334 606 2147483629
+334 687 2147483629
+334 969 2147483629
+335 546 2147483629
+335 558 2147483629
+335 674 2147483629
+335 901 2147483629
+335 918 2147483629
+336 351 2147483629
+336 543 2147483629
+336 660 2147483629
+336 730 2147483629
+337 347 2147483629
+337 504 2147483629
+337 658 2147483629
+337 801 2147483629
+337 959 2147483629
+337 968 2147483629
+338 382 2147483629
+338 500 2147483629
+338 564 2147483629
+338 565 2147483629
+338 581 2147483629
+338 597 2147483629
+338 884 2147483629
+338 983 2147483629
+339 493 2147483629
+339 646 2147483629
+339 669 2147483629
+339 786 2147483629
+339 796 2147483629
+339 836 2147483629
+339 902 2147483629
+340 353 2147483629
+340 366 2147483629
+340 375 2147483629
+340 382 2147483629
+340 615 2147483629
+340 865 2147483629
+340 920 2147483629
+340 956 2147483629
+341 397 2147483629
+341 635 2147483629
+341 830 2147483629
+341 872 2147483629
+341 995 2147483629
+342 354 2147483629
+342 400 2147483629
+342 625 2147483629
+342 911 2147483629
+342 976 2147483629
+343 571 2147483629
+343 713 2147483629
+343 784 2147483629
+343 840 2147483629
+344 410 2147483629
+344 411 2147483629
+344 424 2147483629
+344 530 2147483629
+344 576 2147483629
+344 619 2147483629
+344 650 2147483629
+344 906 2147483629
+344 932 2147483629
+344 960 2147483629
+344 972 2147483629
+345 416 2147483629
+345 445 2147483629
+345 487 2147483629
+345 534 2147483629
+345 543 2147483629
+345 634 2147483629
+345 653 2147483629
+346 388 2147483629
+346 496 2147483629
+346 614 2147483629
+346 700 2147483629
+346 718 2147483629
+346 759 2147483629
+346 874 2147483629
+346 878 2147483629
+347 360 2147483629
+347 457 2147483629
+347 468 2147483629
+347 543 2147483629
+347 560 2147483629
+347 573 2147483629
+347 658 2147483629
+347 709 2147483629
+347 780 2147483629
+347 792 2147483629
+347 959 2147483629
+347 975 2147483629
+348 410 2147483629
+348 420 2147483629
+348 728 2147483629
+348 953 2147483629
+349 383 2147483629
+349 414 2147483629
+349 427 2147483629
+349 429 2147483629
+349 470 2147483629
+349 580 2147483629
+349 641 2147483629
+349 643 2147483629
+349 679 2147483629
+349 699 2147483629
+349 784 2147483629
+349 893 2147483629
+349 981 2147483629
+349 993 2147483629
+350 370 2147483629
+350 372 2147483629
+350 545 2147483629
+350 587 2147483629
+350 664 2147483629
+350 689 2147483629
+350 840 2147483629
+351 394 2147483629
+351 638 2147483629
+351 757 2147483629
+351 819 2147483629
+351 873 2147483629
+351 895 2147483629
+351 919 2147483629
+351 948 2147483629
+351 953 2147483629
+352 460 2147483629
+352 493 2147483629
+352 520 2147483629
+352 522 2147483629
+352 600 2147483629
+352 708 2147483629
+352 976 2147483629
+352 990 2147483629
+353 413 2147483629
+353 448 2147483629
+353 769 2147483629
+354 364 2147483629
+354 368 2147483629
+354 587 2147483629
+354 713 2147483629
+354 738 2147483629
+354 944 2147483629
+354 996 2147483629
+355 453 2147483629
+355 503 2147483629
+355 884 2147483629
+356 575 2147483629
+356 619 2147483629
+356 941 2147483629
+357 485 2147483629
+357 504 2147483629
+357 707 2147483629
+357 816 2147483629
+357 918 2147483629
+358 766 2147483629
+358 794 2147483629
+358 910 2147483629
+359 415 2147483629
+359 460 2147483629
+359 521 2147483629
+359 556 2147483629
+359 765 2147483629
+359 960 2147483629
+360 417 2147483629
+360 575 2147483629
+360 592 2147483629
+360 638 2147483629
+360 821 2147483629
+360 874 2147483629
+360 896 2147483629
+360 930 2147483629
+361 852 2147483629
+362 435 2147483629
+362 765 2147483629
+362 840 2147483629
+362 954 2147483629
+362 977 2147483629
+362 984 2147483629
+363 645 2147483629
+363 850 2147483629
+363 895 2147483629
+363 969 2147483629
+363 970 2147483629
+364 375 2147483629
+364 419 2147483629
+364 472 2147483629
+364 500 2147483629
+364 607 2147483629
+364 731 2147483629
+364 787 2147483629
+364 830 2147483629
+364 865 2147483629
+364 910 2147483629
+364 911 2147483629
+364 939 2147483629
+365 418 2147483629
+365 549 2147483629
+365 715 2147483629
+365 785 2147483629
+365 805 2147483629
+365 861 2147483629
+366 471 2147483629
+366 514 2147483629
+366 634 2147483629
+366 847 2147483629
+366 873 2147483629
+366 985 2147483629
+367 403 2147483629
+367 527 2147483629
+367 575 2147483629
+367 785 2147483629
+367 889 2147483629
+367 972 2147483629
+368 492 2147483629
+368 620 2147483629
+368 687 2147483629
+368 873 2147483629
+368 990 2147483629
+369 427 2147483629
+369 527 2147483629
+369 611 2147483629
+369 734 2147483629
+369 791 2147483629
+369 870 2147483629
+369 871 2147483629
+369 910 2147483629
+370 391 2147483629
+370 559 2147483629
+370 627 2147483629
+370 689 2147483629
+370 813 2147483629
+371 430 2147483629
+371 619 2147483629
+371 637 2147483629
+371 743 2147483629
+371 782 2147483629
+371 908 2147483629
+371 918 2147483629
+372 383 2147483629
+372 535 2147483629
+372 686 2147483629
+372 702 2147483629
+373 502 2147483629
+373 553 2147483629
+373 575 2147483629
+373 585 2147483629
+373 777 2147483629
+373 830 2147483629
+373 922 2147483629
+374 466 2147483629
+374 658 2147483629
+374 769 2147483629
+374 805 2147483629
+374 914 2147483629
+374 998 2147483629
+375 576 2147483629
+375 662 2147483629
+375 683 2147483629
+375 919 2147483629
+375 973 2147483629
+376 457 2147483629
+376 579 2147483629
+376 595 2147483629
+376 601 2147483629
+376 700 2147483629
+377 399 2147483629
+377 425 2147483629
+377 484 2147483629
+377 688 2147483629
+377 943 2147483629
+377 952 2147483629
+378 402 2147483629
+378 422 2147483629
+378 491 2147483629
+378 655 2147483629
+378 826 2147483629
+378 902 2147483629
+379 387 2147483629
+379 653 2147483629
+379 798 2147483629
+380 410 2147483629
+380 443 2147483629
+380 478 2147483629
+380 577 2147483629
+380 617 2147483629
+380 720 2147483629
+380 900 2147483629
+380 964 2147483629
+381 439 2147483629
+381 466 2147483629
+381 468 2147483629
+381 494 2147483629
+381 896 2147483629
+382 434 2147483629
+382 489 2147483629
+382 545 2147483629
+382 804 2147483629
+382 962 2147483629
+383 520 2147483629
+383 617 2147483629
+383 620 2147483629
+383 675 2147483629
+383 798 2147483629
+383 903 2147483629
+384 496 2147483629
+384 623 2147483629
+384 907 2147483629
+385 513 2147483629
+385 533 2147483629
+385 591 2147483629
+385 665 2147483629
+385 749 2147483629
+386 436 2147483629
+386 502 2147483629
+386 540 2147483629
+386 606 2147483629
+386 613 2147483629
+386 697 2147483629
+386 857 2147483629
+386 1000 2147483629
+387 461 2147483628
+387 582 2147483629
+387 842 2147483629
+387 933 2147483629
+388 410 2147483629
+388 526 2147483629
+388 697 2147483629
+388 862 2147483629
+388 863 2147483629
+388 920 2147483629
+389 563 2147483629
+389 597 2147483629
+389 796 2147483629
+389 813 2147483629
+389 895 2147483629
+389 933 2147483629
+389 990 2147483629
+390 549 2147483629
+390 552 2147483629
+390 726 2147483629
+390 746 2147483629
+390 863 2147483629
+390 938 2147483629
+391 702 2147483629
+391 976 2147483629
+391 989 2147483629
+392 432 2147483629
+392 541 2147483629
+392 582 2147483629
+392 586 2147483629
+392 588 2147483629
+392 804 2147483629
+392 840 2147483629
+393 485 2147483629
+393 539 2147483629
+393 612 2147483629
+393 623 2147483629
+393 656 2147483629
+393 690 2147483629
+393 798 2147483629
+393 958 2147483629
+393 972 2147483629
+394 480 2147483629
+394 524 2147483629
+394 552 2147483629
+394 621 2147483629
+394 737 2147483629
+394 741 2147483629
+394 746 2147483629
+395 477 2147483629
+395 521 2147483629
+395 961 2147483629
+395 973 2147483629
+395 989 2147483629
+396 456 2147483629
+396 522 2147483629
+396 586 2147483629
+396 826 2147483629
+396 831 2147483629
+396 867 2147483629
+397 419 2147483629
+397 769 2147483629
+397 781 2147483629
+397 828 2147483629
+397 962 2147483629
+398 467 2147483629
+398 664 2147483629
+398 693 2147483629
+398 797 2147483629
+398 868 2147483629
+399 432 2147483629
+399 598 2147483629
+399 756 2147483629
+399 824 2147483629
+399 874 2147483629
+399 885 2147483629
+399 956 2147483629
+400 450 2147483629
+400 903 2147483629
+401 431 2147483629
+401 522 2147483629
+401 631 2147483629
+401 889 2147483629
+402 413 2147483629
+402 459 2147483629
+402 480 2147483629
+402 552 2147483629
+402 780 2147483629
+402 921 2147483629
+403 405 2147483629
+403 416 2147483629
+403 739 2147483629
+403 840 2147483629
+403 859 2147483629
+403 867 2147483629
+403 940 2147483629
+404 618 2147483629
+404 623 2147483629
+404 731 2147483629
+404 903 2147483629
+404 970 2147483629
+405 426 2147483629
+405 580 2147483629
+405 593 2147483629
+405 691 2147483629
+405 837 2147483629
+405 878 2147483629
+405 902 2147483629
+405 922 2147483629
+406 457 2147483629
+406 464 2147483629
+406 607 2147483629
+406 770 2147483629
+406 896 2147483629
+407 492 2147483629
+407 551 2147483629
+407 568 2147483629
+407 589 2147483629
+407 631 2147483629
+407 867 2147483629
+407 884 2147483629
+407 903 2147483629
+407 916 2147483629
+407 929 2147483629
+407 964 2147483629
+408 470 2147483629
+408 604 2147483629
+408 724 2147483629
+408 731 2147483629
+408 827 2147483629
+408 974 2147483629
+409 415 2147483629
+409 449 2147483629
+409 478 2147483629
+409 481 2147483629
+409 673 2147483629
+409 950 2147483629
+410 532 2147483629
+410 553 2147483629
+410 596 2147483629
+410 675 2147483629
+410 745 2147483629
+410 750 2147483629
+410 781 2147483629
+410 806 2147483629
+411 422 2147483629
+411 492 2147483629
+411 605 2147483629
+411 656 2147483629
+411 717 2147483629
+411 734 2147483629
+411 735 2147483629
+411 755 2147483629
+411 768 2147483629
+411 809 2147483629
+411 842 2147483629
+411 998 2147483629
+412 419 2147483629
+412 474 2147483629
+412 500 2147483629
+412 538 2147483629
+412 546 2147483629
+412 730 2147483629
+412 972 2147483629
+413 453 2147483629
+413 529 2147483629
+413 637 2147483629
+413 716 2147483629
+413 777 2147483629
+413 780 2147483629
+413 884 2147483629
+414 568 2147483629
+414 618 2147483629
+414 758 2147483629
+414 760 2147483629
+414 855 2147483629
+414 975 2147483629
+415 520 2147483629
+415 587 2147483629
+415 765 2147483629
+416 541 2147483629
+416 692 2147483629
+416 696 2147483629
+416 719 2147483629
+416 735 2147483629
+416 814 2147483629
+416 829 2147483629
+416 870 2147483629
+417 603 2147483629
+417 629 2147483629
+418 441 2147483629
+418 449 2147483629
+418 834 2147483629
+418 890 2147483629
+418 965 2147483629
+418 984 2147483629
+419 694 2147483629
+419 806 2147483629
+419 851 2147483629
+419 919 2147483629
+419 988 2147483629
+420 462 2147483629
+420 578 2147483629
+420 672 2147483629
+420 696 2147483629
+420 740 2147483629
+420 784 2147483629
+420 809 2147483629
+420 938 2147483629
+421 540 2147483629
+421 551 2147483629
+421 715 2147483629
+421 728 2147483629
+421 790 2147483629
+421 811 2147483629
+421 962 2147483629
+421 978 2147483629
+422 495 2147483629
+422 506 2147483629
+422 535 2147483629
+422 641 2147483629
+422 701 2147483629
+422 797 2147483629
+422 875 2147483629
+422 922 2147483629
+423 476 2147483629
+423 545 2147483629
+423 677 2147483629
+423 720 2147483629
+423 842 2147483629
+423 974 2147483629
+424 458 2147483629
+424 519 2147483629
+424 567 2147483629
+424 568 2147483629
+424 732 2147483629
+424 933 2147483629
+424 951 2147483629
+424 952 2147483629
+425 433 2147483629
+425 642 2147483629
+425 705 2147483629
+425 755 2147483629
+425 889 2147483629
+425 931 2147483629
+425 939 2147483629
+426 529 2147483629
+426 640 2147483629
+426 664 2147483629
+426 942 2147483629
+426 967 2147483629
+427 572 2147483629
+427 629 2147483629
+427 959 2147483629
+428 429 2147483629
+428 883 2147483629
+428 958 2147483629
+429 588 2147483629
+429 648 2147483629
+429 652 2147483629
+429 715 2147483629
+429 797 2147483629
+429 806 2147483629
+429 856 2147483629
+429 882 2147483629
+430 445 2147483629
+430 682 2147483629
+430 838 2147483629
+431 702 2147483629
+431 773 2147483629
+431 1000 2147483629
+432 451 2147483628
+432 562 2147483629
+432 671 2147483629
+432 699 2147483629
+432 702 2147483629
+432 841 2147483629
+433 563 2147483629
+433 630 2147483629
+433 775 2147483629
+433 914 2147483629
+434 521 2147483629
+434 545 2147483629
+434 746 2147483629
+435 481 2147483629
+435 652 2147483629
+435 702 2147483629
+435 877 2147483629
+436 766 2147483629
+436 923 2147483629
+436 937 2147483629
+436 982 2147483629
+436 999 2147483629
+437 490 2147483629
+437 654 2147483629
+437 904 2147483629
+437 923 2147483629
+437 970 2147483629
+438 468 2147483629
+438 492 2147483629
+438 587 2147483629
+438 907 2147483629
+438 972 2147483629
+438 987 2147483629
+439 636 2147483629
+439 697 2147483629
+439 817 2147483629
+439 874 2147483629
+439 955 2147483629
+440 484 2147483629
+440 630 2147483629
+440 639 2147483629
+440 672 2147483629
+440 680 2147483629
+441 479 2147483629
+441 605 2147483629
+442 574 2147483629
+442 582 2147483629
+442 627 2147483629
+442 860 2147483629
+443 489 2147483629
+443 518 2147483629
+443 603 2147483629
+443 842 2147483629
+443 858 2147483629
+444 477 2147483629
+444 516 2147483629
+444 564 2147483629
+444 769 2147483629
+444 800 2147483629
+445 501 2147483629
+445 586 2147483629
+445 608 2147483629
+445 617 2147483629
+445 668 2147483629
+445 709 2147483629
+445 809 2147483629
+445 945 2147483629
+446 459 2147483629
+446 491 2147483629
+446 557 2147483629
+446 581 2147483629
+446 582 2147483629
+446 689 2147483629
+446 693 2147483629
+446 758 2147483629
+446 765 2147483629
+446 771 2147483629
+446 915 2147483629
+446 948 2147483629
+447 538 2147483629
+447 661 2147483629
+447 670 2147483629
+447 758 2147483629
+447 917 2147483629
+448 535 2147483629
+448 607 2147483629
+448 697 2147483629
+448 842 2147483629
+449 688 2147483629
+449 741 2147483629
+449 775 2147483629
+449 779 2147483629
+449 786 2147483629
+449 803 2147483629
+449 829 2147483629
+449 867 2147483629
+450 517 2147483629
+450 562 2147483629
+450 808 2147483629
+450 813 2147483629
+450 869 2147483629
+450 894 2147483629
+450 938 2147483629
+450 951 2147483629
+451 729 2147483629
+451 748 2147483629
+451 779 2147483629
+451 840 2147483629
+451 855 2147483629
+451 906 2147483629
+452 549 2147483629
+452 560 2147483629
+452 657 2147483629
+452 766 2147483629
+453 634 2147483629
+453 648 2147483629
+453 665 2147483629
+453 699 2147483629
+453 847 2147483629
+453 915 2147483629
+453 986 2147483629
+454 674 2147483629
+454 737 2147483629
+454 841 2147483629
+454 874 2147483629
+455 751 2147483629
+455 860 2147483629
+455 976 2147483629
+456 720 2147483629
+456 905 2147483629
+456 961 2147483629
+456 993 2147483629
+457 564 2147483629
+457 785 2147483629
+457 894 2147483629
+457 926 2147483629
+458 527 2147483629
+458 589 2147483629
+458 639 2147483629
+458 867 2147483629
+458 960 2147483629
+459 484 2147483629
+459 495 2147483629
+459 784 2147483629
+459 941 2147483629
+459 972 2147483629
+460 472 2147483629
+460 494 2147483629
+460 497 2147483629
+460 560 2147483629
+460 674 2147483629
+460 837 2147483629
+460 900 2147483629
+460 916 2147483629
+460 936 2147483629
+461 462 2147483629
+461 486 2147483629
+461 597 2147483629
+461 635 2147483629
+461 730 2147483629
+461 731 2147483629
+461 743 2147483629
+461 907 2147483629
+461 926 2147483629
+462 567 2147483629
+462 583 2147483629
+462 597 2147483629
+462 650 2147483629
+462 659 2147483629
+462 738 2147483629
+462 745 2147483629
+462 917 2147483629
+463 579 2147483629
+463 640 2147483629
+463 827 2147483629
+463 855 2147483629
+463 941 2147483629
+463 990 2147483629
+464 473 2147483629
+464 657 2147483629
+464 998 2147483629
+465 596 2147483629
+465 748 2147483629
+465 884 2147483629
+465 971 2147483629
+466 471 2147483629
+466 518 2147483629
+466 652 2147483629
+466 790 2147483629
+466 793 2147483629
+466 817 2147483629
+466 905 2147483629
+466 939 2147483629
+467 537 2147483629
+467 631 2147483629
+467 685 2147483629
+467 741 2147483629
+467 825 2147483629
+467 919 2147483629
+468 469 2147483629
+468 472 2147483629
+468 768 2147483629
+468 845 2147483629
+468 921 2147483629
+468 996 2147483629
+469 482 2147483629
+469 840 2147483629
+469 975 2147483629
+470 741 2147483629
+471 505 2147483629
+471 532 2147483629
+471 534 2147483629
+471 546 2147483629
+471 742 2147483629
+471 930 2147483629
+471 982 2147483629
+472 566 2147483629
+472 617 2147483629
+472 665 2147483629
+472 719 2147483629
+472 735 2147483629
+472 932 2147483629
+472 946 2147483629
+473 603 2147483629
+473 874 2147483629
+474 506 2147483629
+474 609 2147483629
+474 619 2147483629
+474 863 2147483629
+474 874 2147483629
+474 888 2147483629
+474 944 2147483629
+475 509 2147483629
+475 637 2147483629
+475 720 2147483629
+475 754 2147483629
+475 806 2147483629
+475 819 2147483629
+475 994 2147483629
+476 559 2147483629
+476 574 2147483629
+476 824 2147483629
+477 787 2147483629
+477 812 2147483629
+477 958 2147483629
+478 518 2147483629
+478 526 2147483629
+478 654 2147483629
+478 714 2147483629
+478 876 2147483629
+478 952 2147483629
+479 481 2147483629
+479 482 2147483629
+479 598 2147483629
+479 635 2147483629
+479 763 2147483629
+479 805 2147483629
+479 884 2147483629
+479 922 2147483629
+480 590 2147483629
+480 608 2147483629
+480 615 2147483629
+480 650 2147483629
+480 727 2147483629
+480 901 2147483629
+480 953 2147483629
+480 976 2147483629
+481 669 2147483629
+481 789 2147483629
+481 825 2147483629
+481 837 2147483629
+481 882 2147483629
+481 959 2147483629
+482 513 2147483629
+482 726 2147483629
+482 884 2147483629
+482 920 2147483629
+482 936 2147483629
+483 485 2147483629
+483 555 2147483629
+483 584 2147483629
+483 587 2147483629
+483 630 2147483629
+483 826 2147483629
+483 836 2147483629
+483 869 2147483629
+483 894 2147483629
+484 790 2147483629
+484 933 2147483629
+484 955 2147483629
+485 486 2147483629
+485 488 2147483629
+485 645 2147483629
+485 663 2147483629
+485 800 2147483629
+485 825 2147483629
+485 975 2147483629
+486 582 2147483629
+486 629 2147483629
+486 677 2147483629
+486 726 2147483629
+486 971 2147483629
+486 984 2147483629
+487 683 2147483629
+487 891 2147483629
+488 626 2147483629
+488 715 2147483629
+488 731 2147483629
+488 799 2147483629
+488 877 2147483629
+489 542 2147483629
+489 565 2147483629
+489 640 2147483629
+489 673 2147483629
+489 759 2147483629
+489 765 2147483629
+489 803 2147483629
+489 838 2147483629
+490 730 2147483629
+490 870 2147483629
+490 965 2147483629
+490 968 2147483629
+491 498 2147483629
+491 586 2147483629
+491 606 2147483629
+491 679 2147483629
+491 780 2147483629
+491 781 2147483629
+491 817 2147483629
+491 950 2147483629
+491 955 2147483629
+491 982 2147483629
+492 499 2147483629
+492 519 2147483629
+492 567 2147483629
+492 771 2147483629
+492 857 2147483629
+492 988 2147483629
+493 518 2147483629
+493 583 2147483629
+494 507 2147483629
+494 850 2147483629
+494 899 2147483629
+494 926 2147483629
+495 499 2147483629
+495 522 2147483629
+495 603 2147483629
+495 744 2147483629
+495 746 2147483629
+495 832 2147483629
+495 859 2147483629
+495 861 2147483629
+495 985 2147483629
+496 552 2147483629
+496 594 2147483629
+496 713 2147483629
+496 869 2147483629
+496 955 2147483629
+497 634 2147483629
+497 696 2147483629
+497 727 2147483629
+497 784 2147483629
+497 827 2147483629
+498 593 2147483629
+498 791 2147483629
+498 846 2147483629
+498 949 2147483629
+498 956 2147483629
+499 526 2147483629
+499 613 2147483629
+499 623 2147483629
+499 751 2147483629
+499 752 2147483629
+500 569 2147483629
+500 602 2147483629
+500 646 2147483629
+500 878 2147483629
+500 881 2147483629
+500 933 2147483629
+500 977 2147483629
+501 556 2147483629
+501 700 2147483629
+501 721 2147483629
+501 744 2147483629
+501 805 2147483629
+501 818 2147483629
+501 823 2147483629
+501 861 2147483629
+502 527 2147483629
+502 533 2147483629
+502 611 2147483629
+502 761 2147483629
+502 918 2147483629
+503 517 2147483629
+503 707 2147483629
+503 791 2147483629
+503 835 2147483629
+503 914 2147483629
+504 519 2147483629
+504 549 2147483629
+504 737 2147483629
+504 875 2147483629
+506 627 2147483629
+506 971 2147483629
+507 893 2147483629
+507 972 2147483629
+508 574 2147483629
+508 713 2147483629
+508 760 2147483629
+508 977 2147483629
+509 541 2147483629
+509 622 2147483629
+509 712 2147483629
+509 787 2147483629
+509 796 2147483629
+510 626 2147483629
+510 768 2147483629
+510 782 2147483629
+510 997 2147483629
+511 645 2147483629
+511 741 2147483629
+511 871 2147483629
+511 958 2147483629
+512 652 2147483629
+512 699 2147483629
+512 993 2147483629
+513 728 2147483629
+513 847 2147483629
+513 861 2147483629
+513 918 2147483629
+514 548 2147483629
+514 645 2147483629
+514 709 2147483629
+514 946 2147483629
+514 982 2147483629
+514 990 2147483629
+515 526 2147483629
+515 562 2147483629
+515 565 2147483629
+515 624 2147483629
+515 744 2147483629
+515 835 2147483629
+515 909 2147483629
+515 994 2147483629
+516 626 2147483629
+516 644 2147483629
+516 704 2147483629
+516 764 2147483629
+516 816 2147483629
+516 841 2147483629
+517 522 2147483629
+517 739 2147483629
+517 766 2147483629
+517 768 2147483629
+517 792 2147483629
+517 919 2147483629
+517 945 2147483629
+518 557 2147483629
+518 703 2147483629
+518 777 2147483629
+518 780 2147483629
+518 807 2147483629
+519 554 2147483629
+519 684 2147483629
+519 770 2147483629
+519 775 2147483629
+519 780 2147483629
+519 802 2147483629
+519 824 2147483629
+519 909 2147483629
+519 933 2147483629
+520 561 2147483629
+520 699 2147483629
+520 758 2147483629
+520 827 2147483629
+520 885 2147483629
+520 898 2147483629
+520 978 2147483629
+521 569 2147483629
+521 582 2147483629
+521 644 2147483629
+521 670 2147483629
+521 746 2147483629
+521 838 2147483629
+521 899 2147483629
+521 973 2147483629
+522 596 2147483629
+522 715 2147483629
+522 766 2147483629
+522 987 2147483629
+523 684 2147483629
+523 718 2147483629
+523 767 2147483629
+523 803 2147483629
+523 984 2147483629
+524 532 2147483629
+524 551 2147483629
+524 632 2147483629
+524 652 2147483629
+524 715 2147483629
+524 871 2147483629
+524 914 2147483629
+525 553 2147483629
+525 577 2147483629
+525 695 2147483629
+525 765 2147483629
+526 633 2147483629
+526 750 2147483629
+526 859 2147483629
+526 872 2147483629
+526 884 2147483629
+527 531 2147483629
+527 624 2147483629
+527 757 2147483629
+527 792 2147483629
+527 885 2147483629
+527 915 2147483629
+527 937 2147483629
+528 590 2147483629
+528 685 2147483629
+528 791 2147483629
+528 872 2147483629
+528 950 2147483629
+528 959 2147483629
+529 598 2147483629
+529 608 2147483629
+529 801 2147483629
+529 822 2147483629
+530 642 2147483629
+530 664 2147483629
+530 854 2147483629
+531 551 2147483629
+531 641 2147483629
+531 677 2147483629
+531 684 2147483629
+531 708 2147483629
+531 779 2147483629
+531 854 2147483629
+532 937 2147483629
+532 985 2147483629
+533 556 2147483629
+533 995 2147483629
+534 624 2147483629
+534 632 2147483629
+535 593 2147483629
+536 775 2147483629
+537 570 2147483629
+537 589 2147483629
+537 639 2147483629
+538 707 2147483629
+538 754 2147483629
+538 822 2147483629
+539 743 2147483629
+539 897 2147483629
+539 910 2147483629
+540 560 2147483629
+540 607 2147483629
+540 709 2147483629
+540 797 2147483629
+540 806 2147483629
+540 891 2147483629
+540 958 2147483629
+540 963 2147483629
+541 579 2147483629
+541 595 2147483629
+541 637 2147483629
+541 638 2147483629
+541 683 2147483629
+541 775 2147483629
+541 783 2147483629
+541 840 2147483629
+541 945 2147483629
+541 999 2147483629
+542 572 2147483629
+542 622 2147483629
+542 629 2147483629
+542 858 2147483629
+542 870 2147483629
+542 932 2147483629
+543 642 2147483629
+543 660 2147483629
+543 703 2147483629
+543 763 2147483629
+543 826 2147483629
+543 859 2147483629
+544 562 2147483629
+544 577 2147483629
+544 639 2147483629
+544 841 2147483629
+544 887 2147483629
+544 942 2147483629
+544 993 2147483629
+545 546 2147483629
+545 564 2147483629
+545 566 2147483629
+545 615 2147483629
+545 749 2147483629
+545 821 2147483629
+545 995 2147483629
+546 547 2147483629
+546 641 2147483629
+547 549 2147483629
+547 612 2147483629
+547 786 2147483629
+547 967 2147483629
+547 997 2147483629
+548 642 2147483629
+548 890 2147483629
+549 559 2147483629
+549 602 2147483629
+549 661 2147483629
+549 724 2147483629
+549 878 2147483629
+549 897 2147483629
+549 955 2147483629
+550 572 2147483629
+550 651 2147483629
+550 757 2147483629
+550 858 2147483629
+550 870 2147483629
+550 943 2147483629
+551 695 2147483629
+551 832 2147483629
+551 969 2147483629
+552 845 2147483629
+552 859 2147483629
+552 984 2147483629
+553 559 2147483629
+553 577 2147483629
+553 653 2147483629
+553 713 2147483629
+553 778 2147483629
+553 846 2147483629
+553 879 2147483629
+553 886 2147483629
+554 722 2147483629
+555 671 2147483629
+555 709 2147483629
+555 751 2147483629
+555 831 2147483629
+556 614 2147483629
+556 752 2147483629
+556 818 2147483629
+556 845 2147483629
+556 877 2147483629
+556 962 2147483629
+557 587 2147483629
+557 672 2147483629
+557 738 2147483629
+557 755 2147483629
+557 856 2147483629
+557 952 2147483629
+558 623 2147483629
+558 759 2147483629
+558 765 2147483629
+558 817 2147483629
+558 844 2147483629
+558 942 2147483629
+559 689 2147483629
+559 781 2147483629
+559 827 2147483629
+559 878 2147483629
+559 897 2147483629
+559 913 2147483629
+560 589 2147483629
+560 635 2147483629
+560 639 2147483629
+560 698 2147483629
+560 768 2147483629
+560 854 2147483629
+560 925 2147483629
+561 757 2147483629
+561 867 2147483629
+561 967 2147483629
+562 582 2147483629
+562 722 2147483629
+562 844 2147483629
+562 856 2147483629
+563 825 2147483629
+563 882 2147483629
+564 770 2147483629
+564 908 2147483629
+565 622 2147483629
+565 690 2147483629
+565 702 2147483629
+565 734 2147483629
+566 712 2147483629
+566 932 2147483629
+566 954 2147483629
+567 591 2147483629
+567 682 2147483629
+567 733 2147483629
+567 791 2147483629
+567 851 2147483629
+567 951 2147483629
+567 999 2147483629
+568 575 2147483629
+568 778 2147483629
+568 957 2147483629
+569 674 2147483629
+569 809 2147483629
+570 930 2147483629
+570 995 2147483629
+571 625 2147483629
+571 679 2147483629
+571 683 2147483629
+571 686 2147483629
+571 806 2147483629
+572 681 2147483629
+572 860 2147483629
+572 950 2147483629
+572 974 2147483629
+573 619 2147483629
+573 726 2147483629
+573 780 2147483629
+573 817 2147483629
+573 858 2147483629
+573 999 2147483629
+574 948 2147483629
+575 591 2147483629
+575 694 2147483629
+575 706 2147483629
+575 787 2147483629
+575 850 2147483629
+575 851 2147483629
+575 904 2147483629
+575 970 2147483629
+576 775 2147483629
+576 781 2147483629
+576 850 2147483629
+577 617 2147483629
+577 778 2147483629
+577 890 2147483629
+577 931 2147483629
+578 582 2147483629
+578 762 2147483629
+578 831 2147483629
+578 967 2147483629
+579 707 2147483629
+579 720 2147483629
+579 742 2147483629
+580 591 2147483629
+580 612 2147483629
+580 816 2147483629
+580 858 2147483629
+580 883 2147483629
+581 591 2147483629
+581 632 2147483629
+581 643 2147483629
+581 674 2147483629
+581 780 2147483629
+581 880 2147483629
+581 958 2147483629
+582 795 2147483629
+582 971 2147483629
+582 981 2147483629
+583 679 2147483629
+583 775 2147483629
+583 870 2147483629
+583 922 2147483629
+584 813 2147483629
+584 826 2147483629
+584 948 2147483629
+585 600 2147483629
+585 628 2147483629
+585 748 2147483629
+585 784 2147483629
+586 696 2147483629
+586 783 2147483629
+586 806 2147483629
+586 813 2147483629
+586 921 2147483629
+587 649 2147483629
+587 661 2147483629
+587 675 2147483629
+587 719 2147483629
+587 727 2147483629
+587 763 2147483629
+587 856 2147483629
+587 900 2147483629
+588 722 2147483629
+588 751 2147483629
+588 771 2147483629
+588 844 2147483629
+588 846 2147483629
+588 897 2147483629
+588 909 2147483629
+588 943 2147483629
+589 670 2147483629
+589 676 2147483629
+589 706 2147483629
+589 711 2147483629
+589 731 2147483629
+589 760 2147483629
+589 771 2147483629
+590 683 2147483629
+590 733 2147483629
+590 860 2147483629
+590 948 2147483629
+590 977 2147483629
+591 785 2147483629
+591 792 2147483629
+591 899 2147483629
+591 904 2147483629
+591 954 2147483629
+591 984 2147483629
+592 917 2147483629
+593 650 2147483629
+593 865 2147483629
+593 917 2147483629
+593 971 2147483629
+594 679 2147483629
+594 725 2147483629
+594 729 2147483629
+594 803 2147483629
+594 842 2147483629
+594 859 2147483629
+595 801 2147483629
+595 821 2147483629
+595 973 2147483629
+596 643 2147483629
+596 901 2147483629
+596 939 2147483629
+597 713 2147483629
+597 816 2147483629
+598 662 2147483629
+599 602 2147483629
+599 622 2147483629
+599 698 2147483629
+599 756 2147483629
+599 765 2147483629
+599 783 2147483629
+599 800 2147483629
+599 892 2147483629
+599 956 2147483629
+600 797 2147483629
+600 960 2147483629
+601 772 2147483629
+601 791 2147483629
+601 914 2147483629
+602 647 2147483629
+602 680 2147483629
+602 701 2147483629
+602 738 2147483629
+602 857 2147483629
+602 881 2147483629
+602 899 2147483629
+603 698 2147483629
+603 804 2147483629
+603 932 2147483629
+604 774 2147483629
+605 824 2147483629
+605 873 2147483629
+605 901 2147483629
+605 981 2147483629
+606 700 2147483629
+606 735 2147483629
+607 641 2147483629
+607 676 2147483629
+607 679 2147483629
+607 860 2147483629
+608 631 2147483629
+608 653 2147483629
+608 663 2147483629
+608 779 2147483629
+608 828 2147483629
+608 901 2147483629
+609 644 2147483629
+609 916 2147483629
+610 823 2147483629
+610 859 2147483629
+610 998 2147483629
+611 621 2147483629
+611 636 2147483629
+611 858 2147483629
+612 763 2147483629
+612 776 2147483629
+612 779 2147483629
+612 803 2147483629
+613 634 2147483629
+613 672 2147483629
+613 697 2147483629
+613 709 2147483629
+613 823 2147483629
+615 638 2147483629
+615 666 2147483629
+615 762 2147483629
+615 899 2147483629
+615 927 2147483629
+616 686 2147483629
+616 697 2147483629
+616 892 2147483629
+616 953 2147483629
+617 640 2147483629
+617 717 2147483629
+617 788 2147483629
+618 792 2147483629
+618 920 2147483629
+618 987 2147483629
+620 939 2147483629
+621 685 2147483629
+621 701 2147483629
+621 719 2147483629
+621 841 2147483629
+621 860 2147483629
+621 990 2147483629
+622 945 2147483629
+623 651 2147483629
+623 808 2147483629
+623 927 2147483629
+623 939 2147483629
+624 691 2147483629
+624 699 2147483629
+624 725 2147483629
+624 749 2147483629
+624 791 2147483629
+624 816 2147483629
+625 664 2147483629
+625 704 2147483629
+625 724 2147483629
+625 756 2147483629
+625 809 2147483629
+625 825 2147483629
+626 632 2147483629
+626 752 2147483629
+626 792 2147483629
+626 822 2147483629
+626 880 2147483629
+626 988 2147483629
+627 910 2147483629
+628 633 2147483629
+628 639 2147483629
+628 658 2147483629
+628 666 2147483629
+628 691 2147483629
+628 692 2147483629
+628 694 2147483629
+628 818 2147483629
+628 857 2147483629
+628 868 2147483629
+628 903 2147483629
+628 906 2147483629
+628 977 2147483629
+628 978 2147483629
+629 683 2147483629
+629 737 2147483629
+629 982 2147483629
+629 994 2147483629
+630 818 2147483629
+630 850 2147483629
+631 804 2147483629
+631 936 2147483629
+632 764 2147483629
+632 937 2147483629
+633 647 2147483629
+633 789 2147483629
+633 879 2147483629
+633 975 2147483629
+634 651 2147483629
+634 669 2147483629
+634 764 2147483629
+634 865 2147483629
+634 873 2147483629
+635 874 2147483629
+635 890 2147483629
+636 672 2147483629
+636 875 2147483629
+636 888 2147483629
+637 801 2147483629
+637 825 2147483629
+637 866 2147483629
+637 878 2147483629
+637 910 2147483629
+638 640 2147483629
+638 663 2147483629
+638 731 2147483629
+638 985 2147483629
+638 988 2147483629
+639 684 2147483629
+639 963 2147483629
+640 793 2147483629
+640 833 2147483629
+640 906 2147483629
+640 917 2147483629
+640 975 2147483629
+641 652 2147483629
+641 695 2147483629
+641 794 2147483629
+641 875 2147483629
+642 793 2147483629
+642 845 2147483629
+642 849 2147483629
+642 931 2147483629
+643 780 2147483629
+643 881 2147483629
+644 676 2147483629
+644 765 2147483629
+644 897 2147483629
+644 949 2147483629
+644 982 2147483629
+645 794 2147483629
+645 826 2147483629
+645 900 2147483629
+646 910 2147483629
+647 712 2147483629
+647 812 2147483629
+648 723 2147483629
+648 876 2147483629
+648 983 2147483629
+648 984 2147483629
+649 668 2147483629
+649 775 2147483629
+649 791 2147483629
+650 882 2147483629
+651 693 2147483629
+651 944 2147483629
+652 759 2147483629
+652 838 2147483629
+652 892 2147483629
+652 933 2147483629
+652 945 2147483629
+653 818 2147483629
+653 892 2147483629
+654 668 2147483629
+654 714 2147483629
+654 764 2147483629
+654 940 2147483629
+654 957 2147483629
+654 992 2147483629
+655 664 2147483629
+655 768 2147483629
+655 873 2147483629
+655 939 2147483629
+655 970 2147483629
+656 697 2147483629
+656 733 2147483629
+657 704 2147483629
+657 908 2147483629
+657 953 2147483629
+657 972 2147483629
+657 994 2147483629
+659 713 2147483629
+659 752 2147483629
+659 794 2147483629
+659 811 2147483629
+659 918 2147483629
+659 920 2147483629
+660 790 2147483629
+660 891 2147483629
+660 958 2147483629
+661 769 2147483629
+661 805 2147483629
+662 693 2147483629
+662 754 2147483629
+662 859 2147483629
+662 975 2147483629
+663 697 2147483629
+663 853 2147483629
+663 894 2147483629
+663 962 2147483629
+664 687 2147483629
+665 765 2147483629
+665 786 2147483629
+665 883 2147483629
+665 917 2147483629
+666 937 2147483629
+666 942 2147483629
+666 981 2147483629
+667 684 2147483629
+667 755 2147483629
+667 794 2147483629
+667 873 2147483629
+669 745 2147483629
+669 768 2147483629
+669 817 2147483629
+669 832 2147483629
+669 946 2147483629
+670 736 2147483629
+670 820 2147483629
+671 680 2147483629
+671 754 2147483629
+671 781 2147483629
+671 783 2147483629
+671 790 2147483629
+671 884 2147483629
+671 998 2147483629
+672 738 2147483629
+672 962 2147483629
+673 761 2147483629
+673 788 2147483629
+673 790 2147483629
+673 808 2147483629
+673 876 2147483629
+673 878 2147483629
+674 736 2147483629
+674 751 2147483629
+674 786 2147483629
+674 877 2147483629
+674 887 2147483629
+674 924 2147483629
+674 949 2147483629
+675 880 2147483629
+675 970 2147483629
+676 701 2147483629
+676 772 2147483629
+676 812 2147483629
+676 973 2147483629
+677 711 2147483629
+677 848 2147483629
+677 924 2147483629
+678 978 2147483629
+679 727 2147483629
+679 782 2147483629
+680 741 2147483629
+680 752 2147483629
+680 758 2147483629
+680 771 2147483629
+680 806 2147483629
+680 823 2147483629
+680 985 2147483629
+682 701 2147483629
+682 762 2147483629
+682 859 2147483629
+682 862 2147483629
+682 901 2147483629
+682 994 2147483629
+683 781 2147483629
+683 865 2147483629
+683 988 2147483629
+684 977 2147483629
+685 777 2147483629
+685 820 2147483629
+685 834 2147483629
+685 849 2147483629
+685 868 2147483629
+685 871 2147483629
+686 734 2147483629
+686 808 2147483629
+686 813 2147483629
+687 774 2147483629
+687 902 2147483629
+687 906 2147483629
+687 979 2147483629
+688 740 2147483629
+688 946 2147483629
+689 711 2147483629
+689 840 2147483629
+689 879 2147483629
+689 925 2147483629
+690 738 2147483629
+690 782 2147483629
+690 861 2147483629
+690 908 2147483629
+690 909 2147483629
+690 919 2147483629
+690 930 2147483629
+691 714 2147483629
+691 853 2147483629
+692 815 2147483629
+692 890 2147483629
+692 990 2147483629
+693 853 2147483629
+693 963 2147483629
+694 742 2147483629
+694 779 2147483629
+694 811 2147483629
+694 989 2147483629
+696 757 2147483629
+696 834 2147483629
+696 881 2147483629
+697 873 2147483629
+697 945 2147483629
+698 747 2147483629
+698 833 2147483629
+698 891 2147483629
+698 960 2147483629
+699 959 2147483629
+699 986 2147483629
+699 988 2147483629
+700 728 2147483629
+701 715 2147483629
+701 749 2147483629
+701 857 2147483629
+701 873 2147483629
+701 894 2147483629
+701 925 2147483629
+702 811 2147483629
+702 869 2147483629
+702 907 2147483629
+702 996 2147483629
+703 821 2147483629
+703 932 2147483629
+703 955 2147483629
+704 722 2147483629
+704 889 2147483629
+704 939 2147483629
+704 950 2147483629
+704 994 2147483629
+705 952 2147483629
+706 737 2147483629
+706 769 2147483629
+706 785 2147483629
+706 946 2147483629
+706 973 2147483629
+707 721 2147483629
+707 757 2147483629
+707 760 2147483629
+707 768 2147483629
+707 857 2147483629
+707 860 2147483629
+707 953 2147483629
+709 928 2147483629
+709 954 2147483629
+709 959 2147483629
+710 729 2147483629
+710 939 2147483629
+710 982 2147483629
+711 728 2147483629
+711 769 2147483629
+711 838 2147483629
+711 896 2147483629
+711 941 2147483629
+712 778 2147483629
+712 945 2147483629
+712 957 2147483629
+714 757 2147483629
+714 804 2147483629
+714 990 2147483629
+714 994 2147483629
+715 930 2147483629
+716 742 2147483629
+716 951 2147483629
+717 822 2147483629
+717 840 2147483629
+717 981 2147483629
+718 744 2147483629
+719 751 2147483629
+719 876 2147483629
+719 998 2147483629
+720 724 2147483629
+720 732 2147483629
+720 831 2147483629
+720 858 2147483629
+720 860 2147483629
+721 797 2147483629
+721 900 2147483629
+721 947 2147483629
+721 948 2147483629
+721 964 2147483629
+722 753 2147483629
+722 813 2147483629
+723 771 2147483629
+723 775 2147483629
+723 916 2147483629
+723 989 2147483629
+724 750 2147483629
+724 986 2147483629
+725 809 2147483629
+725 904 2147483629
+725 914 2147483629
+726 755 2147483629
+726 852 2147483629
+726 900 2147483629
+726 915 2147483629
+726 979 2147483629
+727 756 2147483629
+727 795 2147483629
+728 834 2147483629
+728 932 2147483629
+728 976 2147483629
+729 765 2147483629
+729 772 2147483629
+729 829 2147483629
+729 944 2147483629
+729 992 2147483629
+730 799 2147483629
+730 813 2147483629
+731 750 2147483629
+731 803 2147483629
+732 755 2147483629
+732 844 2147483629
+732 862 2147483629
+732 995 2147483629
+733 771 2147483629
+733 820 2147483629
+733 941 2147483629
+733 953 2147483629
+734 870 2147483629
+735 747 2147483629
+735 748 2147483629
+736 804 2147483629
+736 940 2147483629
+737 777 2147483629
+738 825 2147483629
+739 783 2147483629
+739 897 2147483629
+739 915 2147483629
+740 785 2147483629
+740 830 2147483629
+740 837 2147483629
+740 862 2147483629
+741 833 2147483629
+742 849 2147483629
+742 894 2147483629
+742 938 2147483629
+742 971 2147483629
+743 902 2147483629
+743 903 2147483629
+744 809 2147483629
+746 764 2147483629
+746 768 2147483629
+746 771 2147483629
+746 871 2147483629
+746 964 2147483629
+747 988 2147483629
+748 794 2147483629
+748 854 2147483629
+748 865 2147483629
+748 870 2147483629
+749 776 2147483629
+749 786 2147483629
+749 921 2147483629
+750 912 2147483629
+751 780 2147483629
+752 772 2147483629
+752 829 2147483629
+752 838 2147483629
+752 849 2147483629
+753 998 2147483629
+754 778 2147483629
+754 819 2147483629
+754 826 2147483629
+754 940 2147483629
+754 985 2147483629
+755 880 2147483629
+756 773 2147483629
+756 816 2147483629
+756 902 2147483629
+756 925 2147483629
+756 926 2147483629
+756 949 2147483629
+756 989 2147483629
+757 795 2147483629
+757 911 2147483629
+757 925 2147483629
+757 990 2147483629
+758 795 2147483629
+758 827 2147483629
+758 828 2147483629
+758 972 2147483629
+759 778 2147483629
+759 827 2147483629
+759 893 2147483629
+761 942 2147483629
+762 856 2147483629
+762 999 2147483629
+763 770 2147483629
+763 944 2147483629
+765 890 2147483629
+765 945 2147483629
+765 977 2147483629
+766 791 2147483629
+766 833 2147483629
+766 865 2147483629
+767 802 2147483629
+767 846 2147483629
+768 813 2147483629
+768 886 2147483629
+768 986 2147483629
+769 800 2147483629
+769 822 2147483629
+769 886 2147483629
+769 938 2147483629
+770 933 2147483629
+771 865 2147483629
+771 922 2147483629
+772 830 2147483629
+772 973 2147483629
+773 777 2147483629
+773 930 2147483629
+775 782 2147483629
+775 844 2147483629
+775 934 2147483629
+775 993 2147483629
+776 793 2147483629
+776 801 2147483629
+776 809 2147483629
+776 895 2147483629
+776 897 2147483629
+776 954 2147483629
+777 818 2147483629
+777 869 2147483629
+777 994 2147483629
+778 825 2147483629
+778 876 2147483629
+778 883 2147483629
+779 782 2147483629
+779 820 2147483629
+779 836 2147483629
+780 853 2147483629
+780 946 2147483629
+782 882 2147483629
+782 981 2147483629
+783 786 2147483629
+783 867 2147483629
+784 831 2147483629
+784 983 2147483629
+785 840 2147483629
+785 867 2147483629
+785 870 2147483629
+785 876 2147483629
+785 921 2147483629
+786 826 2147483629
+786 865 2147483629
+786 948 2147483629
+786 967 2147483629
+786 992 2147483629
+789 802 2147483629
+789 828 2147483629
+789 872 2147483629
+789 900 2147483629
+790 849 2147483629
+790 873 2147483629
+790 901 2147483629
+790 970 2147483629
+790 996 2147483629
+790 998 2147483629
+791 951 2147483629
+791 957 2147483629
+791 967 2147483629
+791 980 2147483629
+792 818 2147483629
+792 950 2147483629
+793 962 2147483629
+794 806 2147483629
+794 862 2147483629
+794 904 2147483629
+794 921 2147483629
+794 960 2147483629
+794 985 2147483629
+795 838 2147483629
+795 893 2147483629
+795 977 2147483629
+796 926 2147483629
+797 811 2147483629
+797 987 2147483629
+798 968 2147483629
+798 992 2147483629
+799 803 2147483629
+799 835 2147483629
+800 978 2147483629
+801 887 2147483629
+802 805 2147483629
+802 819 2147483629
+802 856 2147483629
+802 902 2147483629
+803 945 2147483629
+803 960 2147483629
+804 817 2147483629
+804 928 2147483629
+804 988 2147483629
+805 902 2147483629
+805 987 2147483629
+806 851 2147483629
+806 880 2147483629
+806 970 2147483629
+807 971 2147483629
+809 821 2147483629
+809 827 2147483629
+810 836 2147483629
+810 865 2147483629
+810 910 2147483629
+810 984 2147483629
+811 821 2147483629
+811 913 2147483629
+814 816 2147483629
+814 911 2147483629
+814 991 2147483629
+815 861 2147483629
+815 873 2147483629
+815 924 2147483629
+815 937 2147483629
+815 960 2147483629
+816 943 2147483629
+816 965 2147483629
+816 976 2147483629
+817 828 2147483629
+817 855 2147483629
+817 857 2147483629
+817 879 2147483629
+817 897 2147483629
+817 943 2147483629
+817 944 2147483629
+818 825 2147483629
+818 878 2147483629
+818 966 2147483629
+819 839 2147483629
+819 880 2147483629
+820 973 2147483629
+821 880 2147483629
+822 830 2147483629
+822 845 2147483629
+823 830 2147483629
+823 894 2147483629
+825 905 2147483629
+825 908 2147483629
+826 888 2147483629
+826 1000 2147483629
+828 857 2147483628
+828 929 2147483629
+828 963 2147483629
+829 978 2147483629
+830 863 2147483629
+830 887 2147483629
+830 988 2147483629
+833 847 2147483629
+833 868 2147483629
+834 880 2147483629
+835 843 2147483629
+835 915 2147483629
+835 974 2147483629
+836 919 2147483629
+836 943 2147483629
+837 881 2147483629
+837 995 2147483629
+838 968 2147483629
+839 844 2147483629
+839 960 2147483629
+839 969 2147483629
+841 867 2147483629
+841 892 2147483629
+841 916 2147483629
+842 909 2147483629
+845 849 2147483629
+845 878 2147483629
+846 917 2147483629
+846 935 2147483629
+846 940 2147483629
+847 884 2147483629
+847 966 2147483629
+848 877 2147483629
+848 912 2147483629
+849 862 2147483629
+849 908 2147483629
+849 994 2147483629
+850 959 2147483629
+851 871 2147483629
+852 886 2147483629
+854 864 2147483629
+854 889 2147483629
+854 898 2147483629
+854 924 2147483629
+854 969 2147483629
+855 925 2147483629
+855 928 2147483629
+855 978 2147483629
+857 860 2147483629
+858 901 2147483629
+858 923 2147483629
+859 876 2147483629
+860 924 2147483629
+860 978 2147483629
+861 950 2147483629
+862 886 2147483629
+862 976 2147483629
+864 956 2147483629
+864 977 2147483629
+865 917 2147483629
+866 903 2147483629
+866 929 2147483629
+867 877 2147483629
+869 997 2147483629
+870 983 2147483629
+871 873 2147483629
+874 904 2147483629
+875 970 2147483629
+876 926 2147483629
+878 918 2147483629
+878 979 2147483629
+879 896 2147483629
+879 940 2147483629
+881 938 2147483629
+882 943 2147483629
+883 925 2147483629
+883 928 2147483629
+884 999 2147483629
+886 899 2147483629
+890 943 2147483629
+890 954 2147483629
+890 992 2147483629
+890 993 2147483629
+894 937 2147483629
+894 938 2147483629
+896 922 2147483629
+897 913 2147483629
+898 918 2147483629
+898 920 2147483629
+898 937 2147483629
+899 906 2147483629
+900 945 2147483629
+901 994 2147483629
+902 994 2147483629
+904 959 2147483629
+907 950 2147483629
+907 953 2147483629
+907 972 2147483629
+907 978 2147483629
+907 999 2147483629
+908 926 2147483629
+908 952 2147483629
+908 966 2147483629
+908 986 2147483629
+909 910 2147483629
+910 972 2147483629
+913 986 2147483629
+913 996 2147483629
+916 967 2147483629
+916 973 2147483629
+917 947 2147483629
+917 982 2147483629
+918 924 2147483629
+918 994 2147483629
+921 938 2147483629
+921 990 2147483629
+922 929 2147483629
+922 942 2147483629
+929 965 2147483629
+930 934 2147483629
+932 970 2147483629
+934 970 2147483629
+939 943 2147483629
+940 948 2147483629
+943 958 2147483629
+944 970 2147483629
+944 978 2147483629
+945 964 2147483629
+949 954 2147483629
+950 998 2147483629
+952 953 2147483629
+952 959 2147483629
+952 967 2147483629
+957 982 2147483629
+957 999 2147483629
+958 971 2147483629
+958 990 2147483629
+960 987 2147483629
+960 989 2147483629
+962 995 2147483629
+963 970 2147483629
+964 974 2147483629
+967 968 2147483629
+967 982 2147483629
+969 978 2147483629
+978 987 2147483629
+978 990 2147483629
+984 991 2147483629
+987 990 2147483629
+987 999 2147483629
+998 999 2147483629
