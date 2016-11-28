@@ -344,4 +344,42 @@ Los órdenes de complejidad son $\mathcal{O}(n^2\cdot\log n)$ para el tiempo y $
 
 A pesar de la mejora en tiempo, supone un deterioro en los órdenes de complejidad en espacio, pero es un precio a pagar para poder representar redes con un mayor número de nodos en un tiempo razonable.
 
+\section{Extras opcionales}
+
+\subsection{Otras visualizaciones}
+
+A continuación, podemos ver otras visualizaciones distintas a las que se pueden obtener con los algoritmos de Kamada \& Kawai y Frutecherman \& Reignold, con las mismas redes que teníamos en la primera parte de la práctica. Uno de estos algoritmos es \textbf{OpenORD}, que está basado en el algoritmo de Frutecherman \& Reignold, pero con la intención de diferenciar más los clusters. Este algoritmo ejecuta durante un número fijo de iteraciones un Enfriamiento Simulado para agrupar los clusters y diferenciarlos en la pantalla, eliminando las aristas más largas para permitir diferenciar los clusters.
+
+También podremos ver la visualización que genera el algoritmo \textbf{ForceAtlas 2}, una variante del algoritmo Kamada \& Kawai, capaz de manejar redes más grandes y realizar visualizaciones de calidad. La diferencia con Kamada \& Kawai es que cambia los parámetros de \textit{atracción} y \textit{repulsión} por un parámetro de \textit{escalado}.
+
+Además de esto, podremos ver el algoritmo de \textbf{YifanHu}, que realiza unas visualizaciones de muy buena calidad para las redes que estamos analizando, donde quedan muy bien definidas las distintas áreas principales y las áreas que tienen relación con estas, aunque, su capacidad de dibujado es menor que en los anteriores.
+
+\subsubsection{Visualización para la red \textit{Spain-1996.net}}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q2FA2}
+        \label{spq2kk}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q2ORD}
+        \label{spq2fr}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q2YH}
+        \label{spq2fr}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-1996 con $q=2$.}
+    \label{spq2}
+\end{figure}
+
+\bibliography{citas} %archivo citas.bib que contiene las entradas 
+\bibliographystyle{plain} % hay varias formas de citar
+
 \end{document}
