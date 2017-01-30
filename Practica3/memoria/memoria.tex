@@ -184,7 +184,7 @@ En ambas redes, podremos ver de color más rojo y más grande los nodos que más
       }
       \qquad
       \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
-        \includegraphics[width=0.35\textwidth]{images/Spain1996q2FR}
+        \includegraphics[width=0.4\textwidth]{images/Spain1996q2FR}
         \label{spq2fr}
       }
     }
@@ -203,7 +203,7 @@ En la \hyperref[spq2kk]{Figura \ref*{spq2kk}} podemos ver como el algoritmo Kama
       }
       \qquad
       \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
-        \includegraphics[width=0.35\textwidth]{images/Spain1996q3FR}
+        \includegraphics[width=0.4\textwidth]{images/Spain1996q3FR}
         \label{spq3fr}
       }
     }
@@ -215,12 +215,12 @@ En la \hyperref[spq2kk]{Figura \ref*{spq2kk}} podemos ver como el algoritmo Kama
     \centering
     \mbox {
         \subfigure[Distribución de nodos con Kamada \& Kawai.]{
-        \includegraphics[width=0.35\textwidth]{images/Spain1996q4KK}
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q4KK}
         \label{spq4kk}
       }
       \qquad
       \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
-        \includegraphics[width=0.35\textwidth]{images/Spain1996q4FR}
+        \includegraphics[width=0.4\textwidth]{images/Spain1996q4FR}
         \label{spq4fr}
       }
     }
@@ -232,12 +232,12 @@ En la \hyperref[spq2kk]{Figura \ref*{spq2kk}} podemos ver como el algoritmo Kama
     \centering
     \mbox {
         \subfigure[Distribución de nodos con Kamada \& Kawai.]{
-        \includegraphics[width=0.35\textwidth]{images/Spain1996qn-1KK}
+        \includegraphics[width=0.4\textwidth]{images/Spain1996qn-1KK}
         \label{spqn-1kk}
       }
       \qquad
       \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
-        \includegraphics[width=0.35\textwidth]{images/Spain1996qn-1FR}
+        \includegraphics[width=0.4\textwidth]{images/Spain1996qn-1FR}
         \label{spqn-1fr}
       }
     }
@@ -277,7 +277,7 @@ En esta red, pasados 8 años desde la anterior, podremos observar la evolución 
       }
       \qquad
       \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
-        \includegraphics[width=0.35\textwidth]{images/Spain2004q3FR}
+        \includegraphics[width=0.4\textwidth]{images/Spain2004q3FR}
         \label{spq3fr04}
       }
     }
@@ -289,12 +289,12 @@ En esta red, pasados 8 años desde la anterior, podremos observar la evolución 
     \centering
     \mbox {
         \subfigure[Distribución de nodos con Kamada \& Kawai.]{
-        \includegraphics[width=0.35\textwidth]{images/Spain2004q4KK}
+        \includegraphics[width=0.4\textwidth]{images/Spain2004q4KK}
         \label{spq4kk04}
       }
       \qquad
       \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
-        \includegraphics[width=0.35\textwidth]{images/Spain2004q4FR}
+        \includegraphics[width=0.4\textwidth]{images/Spain2004q4FR}
         \label{spq4fr04}
       }
     }
@@ -306,12 +306,12 @@ En esta red, pasados 8 años desde la anterior, podremos observar la evolución 
     \centering
     \mbox {
         \subfigure[Distribución de nodos con Kamada \& Kawai.]{
-        \includegraphics[width=0.35\textwidth]{images/Spain2004qn-1KK}
+        \includegraphics[width=0.45\textwidth]{images/Spain2004qn-1KK}
         \label{spqn-1kk04}
       }
       \qquad
       \subfigure[Distribución de nodos con Frutcherman \& Reignold.] {
-        \includegraphics[width=0.35\textwidth]{images/Spain2004qn-1FR}
+        \includegraphics[width=0.45\textwidth]{images/Spain2004qn-1FR}
         \label{spqn-1fr04}
       }
     }
@@ -344,15 +344,92 @@ Los órdenes de complejidad son $\mathcal{O}(n^2\cdot\log n)$ para el tiempo y $
 
 A pesar de la mejora en tiempo, supone un deterioro en los órdenes de complejidad en espacio, pero es un precio a pagar para poder representar redes con un mayor número de nodos en un tiempo razonable.
 
+\subsection{Visualización de las redes aleatorias}
+
+A continuación podemos ver algunas visualizaciones para las redes de tamaño 2000, 5000 y 3000 con las siguientes visualizaciones:
+
+\begin{enumerate}[$\bullet$]
+  \item \textbf{Radial Layout}.
+  \item \textbf{Force Atlas 2}.
+  \item \textbf{OpenORD}.
+\end{enumerate}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.5\textwidth]{images/2000FA2}
+        \label{2kfa2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.5\textwidth]{images/2000ORD}
+        \label{2kord}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución de nodos generada con RadialLayout.]{
+        \includegraphics[width=0.9\textwidth]{images/2000RAD}
+        \label{2krl}
+      }
+    }
+    \caption{Red de tamaño $n=2000$}
+    \label{r2k}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.5\textwidth]{images/5000FA2}
+        \label{5kfa2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.5\textwidth]{images/5000ORD}
+        \label{5kord}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución de nodos generada con RadialLayout.]{
+        \includegraphics[width=1\textwidth]{images/5000RAD}
+        \label{5krl}
+      }
+    }
+    \caption{Red de tamaño $n=5000$}
+    \label{r5k}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.5\textwidth]{images/10000FA2}
+        \label{spq2fa2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.5\textwidth]{images/10000ORD}
+        \label{spq2ord}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución de nodos generada con RadialLayout.]{
+        \includegraphics[width=0.9\textwidth]{images/10000RAD}
+        \label{spq2yh}
+      }
+    }
+    \caption{Red de tamaño $n=10000$}
+    \label{r2k}
+\end{figure}
+
+En ellas podemos ver las distintas visualizaciones para los distintos algoritmos, siendo el más vistoso el algoritmo \textit{RadialLayout}, aunque, la capacidad para transimitir información de este último para estas redes es más bien poca. En las otras visualizaciones, al menos se guarda algo de información de los nodos más importantes de la red, y su distribución en esta, pero no mucho más, ya que se ha buscado más la estética que el representar información.
+
 \section{Extras opcionales}
 
 \subsection{Otras visualizaciones}
 
-A continuación, podemos ver otras visualizaciones distintas a las que se pueden obtener con los algoritmos de Kamada \& Kawai y Frutecherman \& Reignold, con las mismas redes que teníamos en la primera parte de la práctica. Uno de estos algoritmos es \textbf{OpenORD}, que está basado en el algoritmo de Frutecherman \& Reignold, pero con la intención de diferenciar más los clusters. Este algoritmo ejecuta durante un número fijo de iteraciones un Enfriamiento Simulado para agrupar los clusters y diferenciarlos en la pantalla, eliminando las aristas más largas para permitir diferenciar los clusters.
-
-También podremos ver la visualización que genera el algoritmo \textbf{ForceAtlas 2}, una variante del algoritmo Kamada \& Kawai, capaz de manejar redes más grandes y realizar visualizaciones de calidad. La diferencia con Kamada \& Kawai es que cambia los parámetros de \textit{atracción} y \textit{repulsión} por un parámetro de \textit{escalado}.
-
-Además de esto, podremos ver el algoritmo de \textbf{YifanHu}, que realiza unas visualizaciones de muy buena calidad para las redes que estamos analizando, donde quedan muy bien definidas las distintas áreas principales y las áreas que tienen relación con estas, aunque, su capacidad de dibujado es menor que en los anteriores.
+A continuación, podemos ver otras visualizaciones distintas a las que se pueden obtener con los algoritmos de Kamada \& Kawai y Frutecherman \& Reignold, con las mismas redes que teníamos en la primera parte de la práctica. Uno de estos algoritmos es \textbf{OpenORD}, que está basado en el algoritmo de Frutecherman \& Reignold, pero con la intención de diferenciar más los clusters. Este algoritmo ejecuta durante un número fijo de iteraciones un Enfriamiento Simulado para agrupar los clusters y diferenciarlos en la pantalla, eliminando las aristas más largas para permitir diferenciar los clusters. También podremos ver la visualización que genera el algoritmo \textbf{ForceAtlas 2}, una variante del algoritmo Kamada \& Kawai, capaz de manejar redes más grandes y realizar visualizaciones de calidad. La diferencia con Kamada \& Kawai es que cambia los parámetros de \textit{atracción} y \textit{repulsión} por un parámetro de \textit{escalado}. Además de esto, podremos ver el algoritmo de \textbf{YifanHu}, que realiza unas visualizaciones de muy buena calidad para las redes que estamos analizando, donde quedan muy bien definidas las distintas áreas principales y las áreas que tienen relación con estas, aunque, su capacidad de dibujado es menor que en los anteriores.
 
 \subsubsection{Visualización para la red \textit{Spain-1996.net}}
 
@@ -361,23 +438,198 @@ Además de esto, podremos ver el algoritmo de \textbf{YifanHu}, que realiza unas
     \mbox {
         \subfigure[Distribución de nodos con ForceAtlas 2.]{
         \includegraphics[width=0.35\textwidth]{images/Spain1996q2FA2}
-        \label{spq2kk}
+        \label{spq2fa2}
       }
       \qquad
       \subfigure[Distribución de nodos con OpenORD.] {
         \includegraphics[width=0.35\textwidth]{images/Spain1996q2ORD}
-        \label{spq2fr}
+        \label{spq2ord}
       }
     }
     \mbox{
       \subfigure[Distribución generada con el algoritmo YifanHu.]{
-        \includegraphics[width=0.5\textwidth]{images/Spain1996q2YH}
-        \label{spq2fr}
+        \includegraphics[width=0.4\textwidth]{images/Spain1996q2YH}
+        \label{spq2yh}
       }
     }
     \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-1996 con $q=2$.}
-    \label{spq2}
+    \label{spq2ext}
 \end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q3FA2}
+        \label{spq3fa2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q3ORD}
+        \label{spq3ord}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.6\textwidth]{images/Spain1996q3YH}
+        \label{spq3yh}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-1996 con $q=3$.}
+    \label{spq3ext}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q4FA2}
+        \label{spq4fa2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996q4ORD}
+        \label{spq4ord}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain1996q4YH}
+        \label{spq4yh}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-1996 con $q=4$.}
+    \label{spq4ext}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain1996qn-1FA2}
+        \label{spqn-1fa2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain1996qn-1ORD}
+        \label{spqn-1ord}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain1996qn-1YH}
+        \label{spqn-1yh}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-1996 con $q=n-1$.}
+    \label{spqn-1ext}
+\end{figure}
+
+\subsubsection{Visualización para la red \textit{Spain-2004.net}}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain2004q2FA2}
+        \label{sp2004v2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain2004q2ORD}
+        \label{sp2004v2}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain2004q2YH}
+        \label{sp2004v2}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-2004 con $q=2$.}
+    \label{sp2004v2}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain2004q3FA2}
+        \label{sp2004v2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain2004q3ORD}
+        \label{sp2004v2}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain2004q3YH}
+        \label{sp2004v2}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-2004 con $q=3$.}
+    \label{sp2004v2}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain2004q4FA2}
+        \label{sp2004v2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain2004q4ORD}
+        \label{sp2004v2}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain2004q4YH}
+        \label{sp2004v2}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-2004 con $q=4$.}
+    \label{sp2004v2}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \mbox {
+        \subfigure[Distribución de nodos con ForceAtlas 2.]{
+        \includegraphics[width=0.35\textwidth]{images/Spain2004qn-1FA2}
+        \label{sp2004v2}
+      }
+      \qquad
+      \subfigure[Distribución de nodos con OpenORD.] {
+        \includegraphics[width=0.35\textwidth]{images/Spain2004qn-1ORD}
+        \label{sp2004v2}
+      }
+    }
+    \mbox{
+      \subfigure[Distribución generada con el algoritmo YifanHu.]{
+        \includegraphics[width=0.5\textwidth]{images/Spain2004qn-1YH}
+        \label{sp2004v2}
+      }
+    }
+    \caption{ForceAtlas, OpenORD y YifanHu para la red Spain-2004 con $q=n-1$.}
+    \label{sp2004v2}
+\end{figure}
+
+Como podemos ver, los tres algoritmos ofrecen buenas visualizaciones para este tipo de redes, donde es importante ver que las áreas que estén relacionadas estén juntas, mientras que las que menos relacionadas están se sitúen más lejos en la visualización. Además, son algoritmos que funcionan bastante bien para el tamaño de red que estamos utilizando.
+
+\subsection{Aumentando el tamaño de la red}
+
+A continuación, en la \hyperref[results2]{Tabla \ref*{results2}} podemos ver la tabla de resultados que vimos anteriormente (\hyperref[result]{Tabla \ref*{result}}, pero con el añadido de que el tamaño de $n$ se ha extendido hasta los 30000 nodos.
+
+\input{comparacion_opt.tex}
+
+En esta tabla, podemos comprobar como para tamaños de $n$ grandes, los algoritmos $MST$ ya empiezan a tomar un tiempo algo considerable para finalizar la ejecución, pero sigue siendo los únicos capaces de ejecutarlo en un tiempo razonable, mientras que los otros, son totalmente incapaces de hacerlo, debido a la propia base del algoritmo (programación dinámica) y a las estructuras de datos asociadas que utilizan para resolver el problema.
+
+También en la tabla, podemos observar cómo el tiempo del MST-Teórico es menor que el MST-Práctico. Esto se debe principalmente a que pueden haberse visto afectados los tiempos por interrupciones del sistema y haber salido un poco más rápido para tamaño $n=20000$. Para tamaño $n=30000$, se producen tiempos iguales, lo que concuerda más con el análisis visto anteriormente. Esto se produce a que para un tamaño de $n=30000$, con $16GB$ de memoria RAM, el sistema operativo hace operaciones de swapping en disco, por lo que afecta a los tiempos de ejecución.
 
 \bibliography{citas} %archivo citas.bib que contiene las entradas 
 \bibliographystyle{plain} % hay varias formas de citar
