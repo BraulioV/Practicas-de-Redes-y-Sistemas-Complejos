@@ -13,5 +13,6 @@ En esta práctica, se utilizan modelos de ___Netlogo___ para realizar análisis 
 
 ### Práctica 3
 
+Esta práctica se basa en la poda y visualización de distintas redes de colaboracin científica o cienciogramas. Esta poda de las redes se realiza gracias al algoritmo ___Pathfinder___. 
 ### Práctica 4
 
