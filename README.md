@@ -13,7 +13,20 @@ En esta práctica, se utilizan modelos de ___Netlogo___ para realizar análisis 
 
 ### Práctica 3
 
-Esta práctica se basa en la poda y visualización de distintas redes de colaboración científica o cienciogramas. Esta poda de las redes se realiza gracias al algoritmo ___Pathfinder___. Las visualizaciones de estas redes se hacen haciendo uso de los algoritmos ___Kamada & Kawai___ y ___Frutcherman & Reignold___. 
+Esta práctica se basa en la poda y visualización de distintas redes de colaboración científica o cienciogramas, junto con un pequeño análisis de estos cienciogramas. Esta poda de las redes se realiza gracias al algoritmo ___Pathfinder___. Las visualizaciones de estas redes se hacen haciendo uso de los algoritmos ___Kamada & Kawai___ y ___Frutcherman & Reignold___. 
+
+Tras esto, podemos ver un análisis las distintas variantes del algoritmo Pathfinder junto con un análisis de la eficiencia de estos, para redes aleatorias de tamaños que van desde los 500 nodos hasta los 10000:
+
+* __Original__.
+* __Binario__.
+* __Fast__.
+* __MST (Teórico)__.
+* __MST (Práctico)__.
+
+Además de esto, se han realizado visualizaciones para las redes aleatorias con distintos algoritmos de visualización: __Radial Layout__, __Force Atlas 2__ y __OpenORD__.
+
+Por último, como parte opcional de la práctica, se muestran distintas visualizaciones para los cienciogramas de la primera parte de la práctica (__Force Atlas 2__, __OpenORD__ y __Yifan Hu__); y un pequeño análisis del comportamiento de las versiones del algoritmo Pathfinder para redes de tamaño 20000 y 30000.
+
 
 ### Práctica 4
 
