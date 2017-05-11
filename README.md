@@ -27,6 +27,6 @@ Además de esto, se han realizado visualizaciones para las redes aleatorias con 
 
 Por último, como parte opcional de la práctica, se muestran distintas visualizaciones para los cienciogramas de la primera parte de la práctica (__Force Atlas 2__, __OpenORD__ y __Yifan Hu__); y un pequeño análisis del comportamiento de las versiones del algoritmo Pathfinder para redes de tamaño 20000 y 30000.
 
-### Práctica 4
+### Trabajo Final o Práctica 4
 
 En esta última práctica está el trabajo final de la asignatura. En mi caso, he realizado un estudio sobre la red de amistad en Twitter de [__@PythonGranada__](https://github.com/PythonGranada), estudiando las propiedades de la estructura de la red en una primera parte, realizando una detección de comunidades usando [__Gephi__](https://github.com/gephi/gephi) y [__graph-tool__](https://github.com/count0/graph-tool). Tras esto, se realiza un estudio sobre qué personas son las más indicadas para realizar la tarea de semilla al inicio de una campaña de marketing viral, que en este caso, sería para hacer que un evento llegara a la mayor cantidad de gente posible.
